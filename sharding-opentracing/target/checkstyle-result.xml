@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-opentracing\src\main\java\org\apache\shardingsphere\opentracing\constant\ShardingErrorLogTags.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-opentracing\src\main\java\org\apache\shardingsphere\opentracing\constant\ShardingTags.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-opentracing\src\main\java\org\apache\shardingsphere\opentracing\hook\OpenTracingParsingHook.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-opentracing\src\main\java\org\apache\shardingsphere\opentracing\hook\OpenTracingRootInvokeHook.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-opentracing\src\main\java\org\apache\shardingsphere\opentracing\hook\OpenTracingSQLExecutionHook.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-opentracing\src\main\java\org\apache\shardingsphere\opentracing\hook\ShardingErrorSpan.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-opentracing\src\main\java\org\apache\shardingsphere\opentracing\ShardingTracer.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-opentracing\src\test\java\org\apache\shardingsphere\opentracing\fixture\FooTracer.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-opentracing\src\test\java\org\apache\shardingsphere\opentracing\hook\BaseOpenTracingHookTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-opentracing\src\test\java\org\apache\shardingsphere\opentracing\hook\OpenTracingParsingHookTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-opentracing\src\test\java\org\apache\shardingsphere\opentracing\hook\OpenTracingRootInvokeHookTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-opentracing\src\test\java\org\apache\shardingsphere\opentracing\hook\OpenTracingSQLExecutionHookTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-opentracing\src\test\java\org\apache\shardingsphere\opentracing\ShardingTracerTest.java">
+</file>
+</checkstyle>

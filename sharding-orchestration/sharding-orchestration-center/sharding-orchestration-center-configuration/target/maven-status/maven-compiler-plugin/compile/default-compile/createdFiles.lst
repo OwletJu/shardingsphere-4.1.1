@@ -1,0 +1,4 @@
+org\apache\shardingsphere\orchestration\center\yaml\swapper\OrchestrationConfigurationYamlSwapper.class
+org\apache\shardingsphere\orchestration\center\yaml\config\YamlCenterRepositoryConfiguration.class
+org\apache\shardingsphere\orchestration\center\yaml\swapper\CenterRepositoryConfigurationYamlSwapper.class
+org\apache\shardingsphere\orchestration\center\yaml\config\YamlOrchestrationConfiguration.class

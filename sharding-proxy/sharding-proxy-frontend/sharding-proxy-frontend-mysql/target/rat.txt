@@ -1,0 +1,52 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-16T14:04:56+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 26
+
+Apache Licensed: 26
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/pom.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/auth/MySQLAuthenticationEngine.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/auth/MySQLAuthenticationHandler.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/command/admin/initdb/MySQLComInitDbExecutor.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/command/admin/ping/MySQLComPingExecutor.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/command/admin/quit/MySQLComQuitExecutor.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/command/generic/MySQLUnsupportedCommandExecutor.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/command/MySQLCommandExecuteEngine.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/command/MySQLCommandExecutorFactory.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/command/query/binary/close/MySQLComStmtCloseExecutor.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/command/query/binary/execute/MySQLComStmtExecuteExecutor.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/command/query/binary/prepare/MySQLComStmtPrepareChecker.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/command/query/binary/prepare/MySQLComStmtPrepareExecutor.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/command/query/binary/reset/MySQLComStmtResetExecutor.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/command/query/text/fieldlist/MySQLComFieldListPacketExecutor.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/command/query/text/query/MySQLComQueryPacketExecutor.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/MySQLErrPacketFactory.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/main/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/MySQLProtocolFrontendEngine.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/main/resources/META-INF/services/org.apache.shardingsphere.shardingproxy.frontend.spi.DatabaseProtocolFrontendEngine
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/test/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/auth/MySQLAuthenticationEngineTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/test/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/auth/MySQLAuthenticationHandlerTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/test/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/command/query/binary/execute/MySQLComStmtExecuteExecutorTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/test/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/command/query/binary/reset/MySQLComStmtResetExecutorTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/test/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/command/query/text/query/MySQLComQueryPacketExecutorTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/test/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/MySQLErrPacketFactoryTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-frontend/sharding-proxy-frontend-mysql/src/test/java/org/apache/shardingsphere/shardingproxy/frontend/mysql/MySQLFrontendEngineTest.java
+ 
+*****************************************************

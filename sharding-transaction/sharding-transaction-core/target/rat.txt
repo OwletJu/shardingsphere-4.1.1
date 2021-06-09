@@ -1,0 +1,42 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-16T14:04:10+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 16
+
+Apache Licensed: 16
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-transaction/sharding-transaction-core/pom.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-transaction/sharding-transaction-core/src/main/java/org/apache/shardingsphere/transaction/annotation/ShardingTransactionType.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-transaction/sharding-transaction-core/src/main/java/org/apache/shardingsphere/transaction/core/ResourceDataSource.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-transaction/sharding-transaction-core/src/main/java/org/apache/shardingsphere/transaction/core/ResourceIDGenerator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-transaction/sharding-transaction-core/src/main/java/org/apache/shardingsphere/transaction/core/TransactionOperationType.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-transaction/sharding-transaction-core/src/main/java/org/apache/shardingsphere/transaction/core/TransactionType.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-transaction/sharding-transaction-core/src/main/java/org/apache/shardingsphere/transaction/core/TransactionTypeHolder.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-transaction/sharding-transaction-core/src/main/java/org/apache/shardingsphere/transaction/ShardingTransactionManagerEngine.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-transaction/sharding-transaction-core/src/main/java/org/apache/shardingsphere/transaction/spi/ShardingTransactionManager.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-transaction/sharding-transaction-core/src/test/java/org/apache/shardingsphere/transaction/core/fixture/OtherShardingTransactionManagerFixture.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-transaction/sharding-transaction-core/src/test/java/org/apache/shardingsphere/transaction/core/fixture/ShardingTransactionManagerFixture.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-transaction/sharding-transaction-core/src/test/java/org/apache/shardingsphere/transaction/core/ResourceIDGeneratorTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-transaction/sharding-transaction-core/src/test/java/org/apache/shardingsphere/transaction/core/TransactionTypeHolderTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-transaction/sharding-transaction-core/src/test/java/org/apache/shardingsphere/transaction/ShardingTransactionManagerEngineTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-transaction/sharding-transaction-core/src/test/resources/logback-test.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-transaction/sharding-transaction-core/src/test/resources/META-INF/services/org.apache.shardingsphere.transaction.spi.ShardingTransactionManager
+ 
+*****************************************************

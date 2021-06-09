@@ -1,0 +1,76 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-16T14:04:07+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 50
+
+Apache Licensed: 50
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/pom.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/sharding/merge/dal/common/MultipleLocalDataMergedResult.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/sharding/merge/dal/common/SingleLocalDataMergedResult.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/sharding/merge/dal/ShardingDALResultMerger.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/sharding/merge/dal/show/LogicTablesMergedResult.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/sharding/merge/dal/show/ShowCreateTableMergedResult.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/sharding/merge/dql/groupby/aggregation/AccumulationAggregationUnit.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/sharding/merge/dql/groupby/aggregation/AggregationUnit.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/sharding/merge/dql/groupby/aggregation/AggregationUnitFactory.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/sharding/merge/dql/groupby/aggregation/AverageAggregationUnit.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/sharding/merge/dql/groupby/aggregation/ComparableAggregationUnit.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/sharding/merge/dql/groupby/aggregation/DistinctAverageAggregationUnit.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/sharding/merge/dql/groupby/aggregation/DistinctCountAggregationUnit.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/sharding/merge/dql/groupby/aggregation/DistinctSumAggregationUnit.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/sharding/merge/dql/groupby/GroupByMemoryMergedResult.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/sharding/merge/dql/groupby/GroupByRowComparator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/sharding/merge/dql/groupby/GroupByStreamMergedResult.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/sharding/merge/dql/groupby/GroupByValue.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/sharding/merge/dql/iterator/IteratorStreamMergedResult.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/sharding/merge/dql/orderby/CompareUtil.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/sharding/merge/dql/orderby/OrderByStreamMergedResult.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/sharding/merge/dql/orderby/OrderByValue.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/sharding/merge/dql/pagination/LimitDecoratorMergedResult.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/sharding/merge/dql/pagination/RowNumberDecoratorMergedResult.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/sharding/merge/dql/pagination/TopAndRowNumberDecoratorMergedResult.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/sharding/merge/dql/ShardingDQLResultMerger.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/main/java/org/apache/shardingsphere/sharding/merge/ShardingResultMergerEngine.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/main/resources/META-INF/services/org.apache.shardingsphere.underlying.merge.engine.ResultProcessEngine
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/sharding/merge/dal/common/MultipleLocalDataMergedResultTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/sharding/merge/dal/common/SingleLocalDataMergedResultTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/sharding/merge/dal/ShardingDALResultMergerTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/sharding/merge/dal/show/ShowCreateTableMergedResultTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/sharding/merge/dal/show/ShowTablesMergedResultTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/sharding/merge/dql/groupby/aggregation/AccumulationAggregationUnitTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/sharding/merge/dql/groupby/aggregation/AggregationUnitFactoryTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/sharding/merge/dql/groupby/aggregation/AverageAggregationUnitTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/sharding/merge/dql/groupby/aggregation/ComparableAggregationUnitTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/sharding/merge/dql/groupby/GroupByMemoryMergedResultTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/sharding/merge/dql/groupby/GroupByRowComparatorTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/sharding/merge/dql/groupby/GroupByStreamMergedResultTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/sharding/merge/dql/groupby/GroupByValueTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/sharding/merge/dql/iterator/IteratorStreamMergedResultTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/sharding/merge/dql/orderby/CompareUtilTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/sharding/merge/dql/orderby/OrderByStreamMergedResultTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/sharding/merge/dql/orderby/OrderByValueTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/sharding/merge/dql/pagination/LimitDecoratorMergedResultTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/sharding/merge/dql/pagination/RowNumberDecoratorMergedResultTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/sharding/merge/dql/pagination/TopAndRowNumberDecoratorMergedResultTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/sharding/merge/dql/ShardingDQLResultMergerTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-merge/src/test/java/org/apache/shardingsphere/sharding/merge/ShardingResultMergerEngineTest.java
+ 
+*****************************************************

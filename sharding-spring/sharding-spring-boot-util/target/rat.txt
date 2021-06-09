@@ -1,0 +1,42 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-16T14:05:28+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 16
+
+Apache Licensed: 16
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-spring-boot-util/pom.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-spring-boot-util/src/main/java/org/apache/shardingsphere/spring/boot/converter/StringToNoneShardingStrategyConfigurationConverter.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-spring-boot-util/src/main/java/org/apache/shardingsphere/spring/boot/datasource/AbstractDbcp2DataSourcePropertiesSetter.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-spring-boot-util/src/main/java/org/apache/shardingsphere/spring/boot/datasource/CommonDbcp2DataSourcePropertiesSetter.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-spring-boot-util/src/main/java/org/apache/shardingsphere/spring/boot/datasource/DataSourcePropertiesSetter.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-spring-boot-util/src/main/java/org/apache/shardingsphere/spring/boot/datasource/DataSourcePropertiesSetterHolder.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-spring-boot-util/src/main/java/org/apache/shardingsphere/spring/boot/datasource/HikariDataSourcePropertiesSetter.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-spring-boot-util/src/main/java/org/apache/shardingsphere/spring/boot/datasource/TomcatDbcp2DataSourcePropertiesSetter.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-spring-boot-util/src/main/java/org/apache/shardingsphere/spring/boot/util/DataSourceUtil.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-spring-boot-util/src/main/java/org/apache/shardingsphere/spring/boot/util/PropertyUtil.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-spring-boot-util/src/main/resources/META-INF/services/org.apache.shardingsphere.spring.boot.datasource.DataSourcePropertiesSetter
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-spring-boot-util/src/test/java/org/apache/shardingsphere/spring/boot/converter/StringToNoneShardingStrategyConfigurationConverterTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-spring-boot-util/src/test/java/org/apache/shardingsphere/spring/boot/datasource/DataSourcePropertiesSetterHolderTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-spring-boot-util/src/test/java/org/apache/shardingsphere/spring/boot/datasource/Dbcp2DataSourcePropertiesSetterTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-spring-boot-util/src/test/java/org/apache/shardingsphere/spring/boot/datasource/HikariDataSourcePropertiesSetterTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-spring-boot-util/src/test/java/org/apache/shardingsphere/spring/boot/util/DataSourceUtilTest.java
+ 
+*****************************************************

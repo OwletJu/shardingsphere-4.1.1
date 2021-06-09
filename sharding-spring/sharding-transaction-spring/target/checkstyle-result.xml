@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-spring\sharding-transaction-spring\src\main\java\org\apache\shardingsphere\transaction\spring\ShardingTransactionTypeAdvisor.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-spring\sharding-transaction-spring\src\main\java\org\apache\shardingsphere\transaction\spring\ShardingTransactionTypeInterceptor.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-spring\sharding-transaction-spring\src\main\java\org\apache\shardingsphere\transaction\spring\ShardingTransactionTypeScanner.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-spring\sharding-transaction-spring\src\test\java\org\apache\shardingsphere\transaction\spring\fixture\FixtureSpringConfiguration.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-spring\sharding-transaction-spring\src\test\java\org\apache\shardingsphere\transaction\spring\fixture\MockService.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-spring\sharding-transaction-spring\src\test\java\org\apache\shardingsphere\transaction\spring\ShardingTransactionTypeScannerTest.java">
+</file>
+</checkstyle>

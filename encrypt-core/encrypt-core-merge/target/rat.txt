@@ -1,0 +1,36 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-16T14:04:08+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 10
+
+Apache Licensed: 10
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-merge/pom.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-merge/src/main/java/org/apache/shardingsphere/encrypt/merge/dal/EncryptDALResultDecorator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-merge/src/main/java/org/apache/shardingsphere/encrypt/merge/dal/impl/DecoratedEncryptColumnsMergedResult.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-merge/src/main/java/org/apache/shardingsphere/encrypt/merge/dal/impl/EncryptColumnsMergedResult.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-merge/src/main/java/org/apache/shardingsphere/encrypt/merge/dal/impl/MergedEncryptColumnsMergedResult.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-merge/src/main/java/org/apache/shardingsphere/encrypt/merge/dql/EncryptDQLResultDecorator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-merge/src/main/java/org/apache/shardingsphere/encrypt/merge/dql/EncryptMergedResult.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-merge/src/main/java/org/apache/shardingsphere/encrypt/merge/dql/EncryptorMetaData.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-merge/src/main/java/org/apache/shardingsphere/encrypt/merge/EncryptResultDecoratorEngine.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-merge/src/main/resources/META-INF/services/org.apache.shardingsphere.underlying.merge.engine.ResultProcessEngine
+ 
+*****************************************************

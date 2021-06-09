@@ -1,0 +1,71 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-16T14:03:32+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 45
+
+Apache Licensed: 45
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/pom.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/codec/PostgreSQLPacketCodecEngine.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/constant/PostgreSQLColumnType.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/command/admin/PostgreSQLUnsupportedCommandPacket.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/command/PostgreSQLCommandPacket.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/command/PostgreSQLCommandPacketFactory.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/command/PostgreSQLCommandPacketType.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/command/PostgreSQLCommandPacketTypeLoader.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/command/query/binary/BinaryStatementRegistry.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/command/query/binary/bind/PostgreSQLBinaryResultSetRowPacket.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/command/query/binary/bind/PostgreSQLBindCompletePacket.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/command/query/binary/bind/PostgreSQLComBindPacket.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/command/query/binary/bind/protocol/PostgreSQLBinaryProtocolValue.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/command/query/binary/bind/protocol/PostgreSQLBinaryProtocolValueFactory.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/command/query/binary/bind/protocol/PostgreSQLDateBinaryProtocolValue.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/command/query/binary/bind/protocol/PostgreSQLDoubleBinaryProtocolValue.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/command/query/binary/bind/protocol/PostgreSQLFloatBinaryProtocolValue.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/command/query/binary/bind/protocol/PostgreSQLInt2BinaryProtocolValue.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/command/query/binary/bind/protocol/PostgreSQLInt4BinaryProtocolValue.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/command/query/binary/bind/protocol/PostgreSQLInt8BinaryProtocolValue.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/command/query/binary/bind/protocol/PostgreSQLStringBinaryProtocolValue.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/command/query/binary/bind/protocol/PostgreSQLTimeBinaryProtocolValue.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/command/query/binary/ConnectionScopeBinaryStatementRegistry.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/command/query/binary/describe/PostgreSQLComDescribePacket.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/command/query/binary/execute/PostgreSQLComExecutePacket.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/command/query/binary/parse/PostgreSQLComParsePacket.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/command/query/binary/parse/PostgreSQLParseCompletePacket.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/command/query/binary/PostgreSQLBinaryStatement.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/command/query/binary/PostgreSQLBinaryStatementParameterType.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/command/query/binary/sync/PostgreSQLComSyncPacket.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/command/query/PostgreSQLColumnDescription.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/command/query/PostgreSQLRowDescriptionPacket.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/command/query/text/PostgreSQLComQueryPacket.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/command/query/text/PostgreSQLDataRowPacket.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/generic/PostgreSQLCommandCompletePacket.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/generic/PostgreSQLComTerminationPacket.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/generic/PostgreSQLErrorResponsePacket.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/generic/PostgreSQLReadyForQueryPacket.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/handshake/PostgreSQLAuthenticationOKPacket.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/handshake/PostgreSQLComStartupPacket.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/handshake/PostgreSQLParameterStatusPacket.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/handshake/PostgreSQLSSLNegativePacket.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/packet/PostgreSQLPacket.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/main/java/org/apache/shardingsphere/database/protocol/postgresql/payload/PostgreSQLPacketPayload.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-postgresql/src/test/java/org/apache/shardingsphere/database/protocol/postgresql/packet/generic/PostgreSQLErrorResponsePacketTest.java
+ 
+*****************************************************

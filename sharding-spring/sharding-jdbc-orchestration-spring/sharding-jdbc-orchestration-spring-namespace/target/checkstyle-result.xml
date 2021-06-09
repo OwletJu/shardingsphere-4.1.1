@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-spring\sharding-jdbc-orchestration-spring\sharding-jdbc-orchestration-spring-namespace\src\main\java\org\apache\shardingsphere\shardingjdbc\orchestration\spring\datasource\OrchestrationSpringEncryptDataSource.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-spring\sharding-jdbc-orchestration-spring\sharding-jdbc-orchestration-spring-namespace\src\main\java\org\apache\shardingsphere\shardingjdbc\orchestration\spring\datasource\OrchestrationSpringMasterSlaveDataSource.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-spring\sharding-jdbc-orchestration-spring\sharding-jdbc-orchestration-spring-namespace\src\main\java\org\apache\shardingsphere\shardingjdbc\orchestration\spring\datasource\OrchestrationSpringShardingDataSource.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-spring\sharding-jdbc-orchestration-spring\sharding-jdbc-orchestration-spring-namespace\src\main\java\org\apache\shardingsphere\shardingjdbc\orchestration\spring\namespace\constants\EncryptDataSourceBeanDefinitionParserTag.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-spring\sharding-jdbc-orchestration-spring\sharding-jdbc-orchestration-spring-namespace\src\main\java\org\apache\shardingsphere\shardingjdbc\orchestration\spring\namespace\constants\InstanceBeanDefinitionParserTag.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-spring\sharding-jdbc-orchestration-spring\sharding-jdbc-orchestration-spring-namespace\src\main\java\org\apache\shardingsphere\shardingjdbc\orchestration\spring\namespace\constants\MasterSlaveDataSourceBeanDefinitionParserTag.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-spring\sharding-jdbc-orchestration-spring\sharding-jdbc-orchestration-spring-namespace\src\main\java\org\apache\shardingsphere\shardingjdbc\orchestration\spring\namespace\constants\ShardingDataSourceBeanDefinitionParserTag.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-spring\sharding-jdbc-orchestration-spring\sharding-jdbc-orchestration-spring-namespace\src\main\java\org\apache\shardingsphere\shardingjdbc\orchestration\spring\namespace\handler\OrchestrationNamespaceHandler.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-spring\sharding-jdbc-orchestration-spring\sharding-jdbc-orchestration-spring-namespace\src\main\java\org\apache\shardingsphere\shardingjdbc\orchestration\spring\namespace\parser\DataSourceBeanDefinitionParser.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-spring\sharding-jdbc-orchestration-spring\sharding-jdbc-orchestration-spring-namespace\src\main\java\org\apache\shardingsphere\shardingjdbc\orchestration\spring\namespace\parser\InstanceBeanDefinitionParser.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-spring\sharding-jdbc-orchestration-spring\sharding-jdbc-orchestration-spring-namespace\src\test\java\org\apache\shardingsphere\shardingjdbc\orchestration\spring\algorithm\DefaultComplexKeysShardingAlgorithm.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-spring\sharding-jdbc-orchestration-spring\sharding-jdbc-orchestration-spring-namespace\src\test\java\org\apache\shardingsphere\shardingjdbc\orchestration\spring\algorithm\DefaultHintShardingAlgorithm.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-spring\sharding-jdbc-orchestration-spring\sharding-jdbc-orchestration-spring-namespace\src\test\java\org\apache\shardingsphere\shardingjdbc\orchestration\spring\algorithm\PreciseModuloDatabaseShardingAlgorithm.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-spring\sharding-jdbc-orchestration-spring\sharding-jdbc-orchestration-spring-namespace\src\test\java\org\apache\shardingsphere\shardingjdbc\orchestration\spring\algorithm\PreciseModuloTableShardingAlgorithm.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-spring\sharding-jdbc-orchestration-spring\sharding-jdbc-orchestration-spring-namespace\src\test\java\org\apache\shardingsphere\shardingjdbc\orchestration\spring\algorithm\RangeModuloDatabaseShardingAlgorithm.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-spring\sharding-jdbc-orchestration-spring\sharding-jdbc-orchestration-spring-namespace\src\test\java\org\apache\shardingsphere\shardingjdbc\orchestration\spring\algorithm\RangeModuloTableShardingAlgorithm.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-spring\sharding-jdbc-orchestration-spring\sharding-jdbc-orchestration-spring-namespace\src\test\java\org\apache\shardingsphere\shardingjdbc\orchestration\spring\fixture\DecrementKeyGenerator.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-spring\sharding-jdbc-orchestration-spring\sharding-jdbc-orchestration-spring-namespace\src\test\java\org\apache\shardingsphere\shardingjdbc\orchestration\spring\fixture\IncrementKeyGenerator.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-spring\sharding-jdbc-orchestration-spring\sharding-jdbc-orchestration-spring-namespace\src\test\java\org\apache\shardingsphere\shardingjdbc\orchestration\spring\OrchestrationEncryptNamespaceTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-spring\sharding-jdbc-orchestration-spring\sharding-jdbc-orchestration-spring-namespace\src\test\java\org\apache\shardingsphere\shardingjdbc\orchestration\spring\OrchestrationMasterSlaveNamespaceTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-spring\sharding-jdbc-orchestration-spring\sharding-jdbc-orchestration-spring-namespace\src\test\java\org\apache\shardingsphere\shardingjdbc\orchestration\spring\OrchestrationShardingMasterSlaveNamespaceTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-spring\sharding-jdbc-orchestration-spring\sharding-jdbc-orchestration-spring-namespace\src\test\java\org\apache\shardingsphere\shardingjdbc\orchestration\spring\OrchestrationShardingNamespaceTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-spring\sharding-jdbc-orchestration-spring\sharding-jdbc-orchestration-spring-namespace\src\test\java\org\apache\shardingsphere\shardingjdbc\orchestration\spring\registry\TestRegistryCenterRepositoryRepository.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-spring\sharding-jdbc-orchestration-spring\sharding-jdbc-orchestration-spring-namespace\src\test\java\org\apache\shardingsphere\shardingjdbc\orchestration\spring\util\EmbedTestingServer.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-spring\sharding-jdbc-orchestration-spring\sharding-jdbc-orchestration-spring-namespace\src\test\java\org\apache\shardingsphere\shardingjdbc\orchestration\spring\util\FieldValueUtil.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-spring\sharding-jdbc-orchestration-spring\sharding-jdbc-orchestration-spring-namespace\src\test\resources\conf\rdb\conf.properties">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-spring\sharding-jdbc-orchestration-spring\sharding-jdbc-orchestration-spring-namespace\src\test\resources\conf\rdb\master_slave_conf.properties">
+</file>
+</checkstyle>

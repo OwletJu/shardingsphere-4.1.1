@@ -1,0 +1,43 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-16T14:04:36+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 17
+
+Apache Licensed: 17
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-common/pom.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-common/src/main/java/org/apache/shardingsphere/shardingproxy/config/ShardingConfiguration.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-common/src/main/java/org/apache/shardingsphere/shardingproxy/config/ShardingConfigurationLoader.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-common/src/main/java/org/apache/shardingsphere/shardingproxy/config/yaml/constructor/YamlProxyRuleConfigurationConstructor.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-common/src/main/java/org/apache/shardingsphere/shardingproxy/config/yaml/YamlDataSourceParameter.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-common/src/main/java/org/apache/shardingsphere/shardingproxy/config/yaml/YamlProxyRuleConfiguration.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-common/src/main/java/org/apache/shardingsphere/shardingproxy/config/yaml/YamlProxyServerConfiguration.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-common/src/main/java/org/apache/shardingsphere/shardingproxy/context/ShardingProxyContext.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-common/src/main/java/org/apache/shardingsphere/shardingproxy/util/DataSourceConverter.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-common/src/test/java/org/apache/shardingsphere/shardingproxy/config/ShardingConfigurationLoaderTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-common/src/test/java/org/apache/shardingsphere/shardingproxy/context/ShardingProxyContextTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-common/src/test/java/org/apache/shardingsphere/shardingproxy/util/DataSourceConverterTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-common/src/test/resources/conf/config-empty.yaml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-common/src/test/resources/conf/config-encrypt.yaml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-common/src/test/resources/conf/config-master_slave.yaml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-common/src/test/resources/conf/config-sharding.yaml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-proxy/sharding-proxy-common/src/test/resources/conf/server.yaml
+ 
+*****************************************************

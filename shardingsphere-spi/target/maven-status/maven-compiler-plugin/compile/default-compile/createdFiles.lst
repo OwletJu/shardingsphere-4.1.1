@@ -1,0 +1,10 @@
+org\apache\shardingsphere\spi\TypeBasedSPI.class
+org\apache\shardingsphere\spi\database\type\DatabaseType.class
+org\apache\shardingsphere\spi\order\OrderedRegistry.class
+org\apache\shardingsphere\spi\database\type\DatabaseTypeAwareSPI.class
+org\apache\shardingsphere\spi\NewInstanceServiceLoader.class
+org\apache\shardingsphere\spi\database\metadata\DataSourceMetaData.class
+org\apache\shardingsphere\spi\database\type\BranchDatabaseType.class
+org\apache\shardingsphere\spi\order\OrderAware.class
+org\apache\shardingsphere\spi\database\metadata\MemorizedDataSourceMetaData.class
+org\apache\shardingsphere\spi\TypeBasedSPIServiceLoader.class

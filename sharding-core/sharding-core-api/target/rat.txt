@@ -1,0 +1,60 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-16T14:03:47+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 34
+
+Apache Licensed: 34
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/pom.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/config/masterslave/LoadBalanceStrategyConfiguration.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/config/masterslave/MasterSlaveRuleConfiguration.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/config/shadow/ShadowRuleConfiguration.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/config/sharding/KeyGeneratorConfiguration.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/config/sharding/ShardingRuleConfiguration.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/config/sharding/strategy/ComplexShardingStrategyConfiguration.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/config/sharding/strategy/HintShardingStrategyConfiguration.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/config/sharding/strategy/InlineShardingStrategyConfiguration.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/config/sharding/strategy/NoneShardingStrategyConfiguration.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/config/sharding/strategy/ShardingStrategyConfiguration.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/config/sharding/strategy/StandardShardingStrategyConfiguration.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/config/sharding/TableRuleConfiguration.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/hint/HintManager.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/sharding/complex/ComplexKeysShardingAlgorithm.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/sharding/complex/ComplexKeysShardingValue.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/sharding/hint/HintShardingAlgorithm.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/sharding/hint/HintShardingValue.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/sharding/ShardingAlgorithm.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/sharding/ShardingValue.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/sharding/standard/PreciseShardingAlgorithm.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/sharding/standard/PreciseShardingValue.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/sharding/standard/RangeShardingAlgorithm.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/api/sharding/standard/RangeShardingValue.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/spi/keygen/ShardingKeyGenerator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/main/java/org/apache/shardingsphere/spi/masterslave/MasterSlaveLoadBalanceAlgorithm.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/test/java/org/apache/shardingsphere/api/config/masterslave/MasterSlaveRuleConfigurationTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/test/java/org/apache/shardingsphere/api/config/sharding/KeyGeneratorConfigurationTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/test/java/org/apache/shardingsphere/api/config/sharding/strategy/ComplexShardingStrategyConfigurationTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/test/java/org/apache/shardingsphere/api/config/sharding/strategy/HintShardingStrategyConfigurationTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/test/java/org/apache/shardingsphere/api/config/sharding/strategy/InlineShardingStrategyConfigurationTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/test/java/org/apache/shardingsphere/api/config/sharding/strategy/StandardShardingStrategyConfigurationTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/test/java/org/apache/shardingsphere/api/config/sharding/TableRuleConfigurationTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-api/src/test/java/org/apache/shardingsphere/api/hint/HintManagerTest.java
+ 
+*****************************************************

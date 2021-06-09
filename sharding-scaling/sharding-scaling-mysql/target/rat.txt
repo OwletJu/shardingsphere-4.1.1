@@ -1,0 +1,61 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-16T14:05:12+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 35
+
+Apache Licensed: 35
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/pom.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/main/java/org/apache/shardingsphere/shardingscaling/mysql/binlog/BinlogContext.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/main/java/org/apache/shardingsphere/shardingscaling/mysql/binlog/event/AbstractBinlogEvent.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/main/java/org/apache/shardingsphere/shardingscaling/mysql/binlog/event/AbstractRowsEvent.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/main/java/org/apache/shardingsphere/shardingscaling/mysql/binlog/event/DeleteRowsEvent.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/main/java/org/apache/shardingsphere/shardingscaling/mysql/binlog/event/PlaceholderEvent.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/main/java/org/apache/shardingsphere/shardingscaling/mysql/binlog/event/UpdateRowsEvent.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/main/java/org/apache/shardingsphere/shardingscaling/mysql/binlog/event/WriteRowsEvent.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/main/java/org/apache/shardingsphere/shardingscaling/mysql/BinlogPosition.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/main/java/org/apache/shardingsphere/shardingscaling/mysql/client/InternalResultSet.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/main/java/org/apache/shardingsphere/shardingscaling/mysql/client/MySQLClient.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/main/java/org/apache/shardingsphere/shardingscaling/mysql/client/MySQLPasswordEncryptor.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/main/java/org/apache/shardingsphere/shardingscaling/mysql/client/netty/MySQLBinlogEventPacketDecoder.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/main/java/org/apache/shardingsphere/shardingscaling/mysql/client/netty/MySQLCommandPacketDecoder.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/main/java/org/apache/shardingsphere/shardingscaling/mysql/client/netty/MySQLNegotiateHandler.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/main/java/org/apache/shardingsphere/shardingscaling/mysql/client/ServerInfo.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/main/java/org/apache/shardingsphere/shardingscaling/mysql/client/ServerVersion.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/main/java/org/apache/shardingsphere/shardingscaling/mysql/MySQLBinlogReader.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/main/java/org/apache/shardingsphere/shardingscaling/mysql/MySQLDataSourceChecker.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/main/java/org/apache/shardingsphere/shardingscaling/mysql/MySQLJdbcReader.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/main/java/org/apache/shardingsphere/shardingscaling/mysql/MySQLLogPositionManager.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/main/java/org/apache/shardingsphere/shardingscaling/mysql/MySQLScalingEntry.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/main/java/org/apache/shardingsphere/shardingscaling/mysql/MySQLWriter.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/main/resources/META-INF/services/org.apache.shardingsphere.shardingscaling.core.spi.ScalingEntry
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/test/java/org/apache/shardingsphere/shardingscaling/mysql/binlog/BinlogContextTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/test/java/org/apache/shardingsphere/shardingscaling/mysql/BinlogPositionTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/test/java/org/apache/shardingsphere/shardingscaling/mysql/client/MySQLClientTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/test/java/org/apache/shardingsphere/shardingscaling/mysql/client/MySQLPasswordEncryptorTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/test/java/org/apache/shardingsphere/shardingscaling/mysql/client/netty/MySQLBinlogEventPacketDecoderTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/test/java/org/apache/shardingsphere/shardingscaling/mysql/client/netty/MySQLCommandPacketDecoderTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/test/java/org/apache/shardingsphere/shardingscaling/mysql/client/netty/MySQLNegotiateHandlerTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/test/java/org/apache/shardingsphere/shardingscaling/mysql/client/ServerVersionTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/test/java/org/apache/shardingsphere/shardingscaling/mysql/MySQLLogPositionManagerTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/test/java/org/apache/shardingsphere/shardingscaling/utils/ReflectionUtil.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-mysql/src/test/resources/logback-test.xml
+ 
+*****************************************************

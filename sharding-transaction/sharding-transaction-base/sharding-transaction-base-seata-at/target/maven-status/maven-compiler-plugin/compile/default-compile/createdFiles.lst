@@ -1,0 +1,3 @@
+org\apache\shardingsphere\transaction\base\seata\at\TransactionalSQLExecutionHook.class
+org\apache\shardingsphere\transaction\base\seata\at\SeataATShardingTransactionManager.class
+org\apache\shardingsphere\transaction\base\seata\at\SeataTransactionHolder.class

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-atomikos\sharding-transaction-xa-atomikos-manager\src\main\java\org\apache\shardingsphere\transaction\xa\atomikos\manager\AtomikosTransactionManager.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-atomikos\sharding-transaction-xa-atomikos-manager\src\main\java\org\apache\shardingsphere\transaction\xa\atomikos\manager\AtomikosXARecoverableResource.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-atomikos\sharding-transaction-xa-atomikos-manager\src\test\java\org\apache\shardingsphere\transaction\xa\atomikos\manager\AtomikosTransactionManagerTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-atomikos\sharding-transaction-xa-atomikos-manager\src\test\java\org\apache\shardingsphere\transaction\xa\atomikos\manager\AtomikosXARecoverableResourceTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-atomikos\sharding-transaction-xa-atomikos-manager\src\test\java\org\apache\shardingsphere\transaction\xa\atomikos\manager\fixture\ReflectiveUtil.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-atomikos\sharding-transaction-xa-atomikos-manager\src\main\resources\transactions.properties">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-atomikos\sharding-transaction-xa-atomikos-manager\src\test\resources\transactions.properties">
+</file>
+</checkstyle>

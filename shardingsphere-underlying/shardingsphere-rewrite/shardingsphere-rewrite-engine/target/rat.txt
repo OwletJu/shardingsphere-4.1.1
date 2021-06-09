@@ -1,0 +1,66 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-16T14:03:38+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 40
+
+Apache Licensed: 40
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/pom.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/main/java/org/apache/shardingsphere/underlying/rewrite/context/SQLRewriteContext.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/main/java/org/apache/shardingsphere/underlying/rewrite/context/SQLRewriteContextDecorator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/main/java/org/apache/shardingsphere/underlying/rewrite/engine/SQLRewriteEngine.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/main/java/org/apache/shardingsphere/underlying/rewrite/engine/SQLRewriteResult.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/main/java/org/apache/shardingsphere/underlying/rewrite/engine/SQLRouteRewriteEngine.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/main/java/org/apache/shardingsphere/underlying/rewrite/parameter/builder/impl/GroupedParameterBuilder.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/main/java/org/apache/shardingsphere/underlying/rewrite/parameter/builder/impl/StandardParameterBuilder.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/main/java/org/apache/shardingsphere/underlying/rewrite/parameter/builder/ParameterBuilder.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/main/java/org/apache/shardingsphere/underlying/rewrite/parameter/rewriter/ParameterRewriter.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/main/java/org/apache/shardingsphere/underlying/rewrite/parameter/rewriter/ParameterRewriterBuilder.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/main/java/org/apache/shardingsphere/underlying/rewrite/sql/impl/AbstractSQLBuilder.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/main/java/org/apache/shardingsphere/underlying/rewrite/sql/impl/DefaultSQLBuilder.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/main/java/org/apache/shardingsphere/underlying/rewrite/sql/impl/RouteSQLBuilder.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/main/java/org/apache/shardingsphere/underlying/rewrite/sql/SQLBuilder.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/main/java/org/apache/shardingsphere/underlying/rewrite/sql/token/generator/aware/ParametersAware.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/main/java/org/apache/shardingsphere/underlying/rewrite/sql/token/generator/aware/PreviousSQLTokensAware.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/main/java/org/apache/shardingsphere/underlying/rewrite/sql/token/generator/aware/RouteContextAware.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/main/java/org/apache/shardingsphere/underlying/rewrite/sql/token/generator/aware/SchemaMetaDataAware.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/main/java/org/apache/shardingsphere/underlying/rewrite/sql/token/generator/builder/DefaultTokenGeneratorBuilder.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/main/java/org/apache/shardingsphere/underlying/rewrite/sql/token/generator/builder/SQLTokenGeneratorBuilder.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/main/java/org/apache/shardingsphere/underlying/rewrite/sql/token/generator/CollectionSQLTokenGenerator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/main/java/org/apache/shardingsphere/underlying/rewrite/sql/token/generator/generic/RemoveTokenGenerator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/main/java/org/apache/shardingsphere/underlying/rewrite/sql/token/generator/OptionalSQLTokenGenerator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/main/java/org/apache/shardingsphere/underlying/rewrite/sql/token/generator/SQLTokenGenerator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/main/java/org/apache/shardingsphere/underlying/rewrite/sql/token/generator/SQLTokenGenerators.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/main/java/org/apache/shardingsphere/underlying/rewrite/sql/token/pojo/Attachable.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/main/java/org/apache/shardingsphere/underlying/rewrite/sql/token/pojo/generic/InsertColumnsToken.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/main/java/org/apache/shardingsphere/underlying/rewrite/sql/token/pojo/generic/InsertValue.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/main/java/org/apache/shardingsphere/underlying/rewrite/sql/token/pojo/generic/InsertValuesToken.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/main/java/org/apache/shardingsphere/underlying/rewrite/sql/token/pojo/generic/RemoveToken.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/main/java/org/apache/shardingsphere/underlying/rewrite/sql/token/pojo/generic/SubstitutableColumnNameToken.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/main/java/org/apache/shardingsphere/underlying/rewrite/sql/token/pojo/generic/UseDefaultInsertColumnsToken.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/main/java/org/apache/shardingsphere/underlying/rewrite/sql/token/pojo/RouteUnitAware.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/main/java/org/apache/shardingsphere/underlying/rewrite/sql/token/pojo/SQLToken.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/main/java/org/apache/shardingsphere/underlying/rewrite/sql/token/pojo/Substitutable.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/main/java/org/apache/shardingsphere/underlying/rewrite/SQLRewriteEntry.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/test/java/org/apache/shardingsphere/underlying/rewrite/impl/DefaultSQLBuilderTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/test/java/org/apache/shardingsphere/underlying/rewrite/impl/GroupedParameterBuilderTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-rewrite/shardingsphere-rewrite-engine/src/test/java/org/apache/shardingsphere/underlying/rewrite/impl/StandardParameterBuilderTest.java
+ 
+*****************************************************

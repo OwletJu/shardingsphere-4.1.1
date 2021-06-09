@@ -1,0 +1,3 @@
+org\apache\shardingsphere\transaction\xa\bitronix\manager\BitronixRecoveryResource.class
+org\apache\shardingsphere\transaction\xa\bitronix\manager\BitronixXATransactionManager.class
+org\apache\shardingsphere\transaction\xa\bitronix\manager\SingleXAResourceHolder.class

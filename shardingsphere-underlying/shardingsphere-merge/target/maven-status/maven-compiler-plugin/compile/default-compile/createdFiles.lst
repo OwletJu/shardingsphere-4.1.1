@@ -1,0 +1,14 @@
+org\apache\shardingsphere\underlying\merge\result\impl\stream\StreamMergedResult.class
+org\apache\shardingsphere\underlying\merge\engine\merger\ResultMerger.class
+org\apache\shardingsphere\underlying\merge\result\impl\memory\MemoryMergedResult.class
+org\apache\shardingsphere\underlying\merge\result\impl\transparent\TransparentMergedResult.class
+org\apache\shardingsphere\underlying\merge\result\MergedResult.class
+org\apache\shardingsphere\underlying\merge\engine\decorator\impl\TransparentResultDecorator.class
+org\apache\shardingsphere\underlying\merge\engine\ResultProcessEngine.class
+org\apache\shardingsphere\underlying\merge\engine\merger\ResultMergerEngine.class
+org\apache\shardingsphere\underlying\merge\MergeEntry.class
+org\apache\shardingsphere\underlying\merge\engine\merger\impl\TransparentResultMerger.class
+org\apache\shardingsphere\underlying\merge\engine\decorator\ResultDecorator.class
+org\apache\shardingsphere\underlying\merge\engine\decorator\ResultDecoratorEngine.class
+org\apache\shardingsphere\underlying\merge\result\impl\decorator\DecoratorMergedResult.class
+org\apache\shardingsphere\underlying\merge\result\impl\memory\MemoryQueryResultRow.class

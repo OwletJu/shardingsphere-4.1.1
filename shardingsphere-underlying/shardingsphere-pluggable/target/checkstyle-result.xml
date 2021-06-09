@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-underlying\shardingsphere-pluggable\src\main\java\org\apache\shardingsphere\underlying\pluggble\merge\MergeEngine.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-underlying\shardingsphere-pluggable\src\main\java\org\apache\shardingsphere\underlying\pluggble\prepare\BasePrepareEngine.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-underlying\shardingsphere-pluggable\src\main\java\org\apache\shardingsphere\underlying\pluggble\prepare\PreparedQueryPrepareEngine.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-underlying\shardingsphere-pluggable\src\main\java\org\apache\shardingsphere\underlying\pluggble\prepare\SimpleQueryPrepareEngine.java">
+</file>
+</checkstyle>

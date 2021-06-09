@@ -1,0 +1,99 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-16T14:03:35+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 73
+
+Apache Licensed: 73
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/pom.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/config/DatabaseAccessConfiguration.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/config/DataSourceConfiguration.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/config/exception/ShardingSphereConfigurationException.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/config/inline/InlineExpressionParser.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/config/properties/ConfigurationProperties.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/config/properties/ConfigurationPropertyKey.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/config/RuleConfiguration.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/config/TypeBasedSPIConfiguration.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/database/DefaultSchema.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/database/metadata/dialect/H2DataSourceMetaData.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/database/metadata/dialect/MariaDBDataSourceMetaData.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/database/metadata/dialect/MySQLDataSourceMetaData.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/database/metadata/dialect/OracleDataSourceMetaData.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/database/metadata/dialect/PostgreSQLDataSourceMetaData.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/database/metadata/dialect/SQL92DataSourceMetaData.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/database/metadata/dialect/SQLServerDataSourceMetaData.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/database/metadata/UnrecognizedDatabaseURLException.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/database/type/DatabaseTypes.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/database/type/dialect/H2DatabaseType.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/database/type/dialect/MariaDBDatabaseType.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/database/type/dialect/MySQLDatabaseType.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/database/type/dialect/OracleDatabaseType.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/database/type/dialect/PostgreSQLDatabaseType.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/database/type/dialect/SQL92DatabaseType.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/database/type/dialect/SQLServerDatabaseType.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/exception/ShardingSphereException.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/hook/RootInvokeHook.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/hook/SPIRootInvokeHook.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/metadata/datasource/DataSourceMetas.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/metadata/decorator/SchemaMetaDataDecorator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/metadata/decorator/TableMetaDataDecorator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/metadata/ShardingSphereMetaData.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/properties/TypedProperties.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/properties/TypedPropertyKey.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/properties/TypedPropertyValue.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/properties/TypedPropertyValueException.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/rule/BaseRule.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/rule/DataNode.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/yaml/config/YamlConfiguration.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/yaml/constructor/AbstractTypeConstructor.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/yaml/engine/YamlEngine.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/yaml/representer/DefaultYamlRepresenter.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/yaml/representer/processor/SkipUnsetTupleProcessor.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/yaml/representer/processor/TupleProcessor.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/java/org/apache/shardingsphere/underlying/common/yaml/swapper/YamlSwapper.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/main/resources/META-INF/services/org.apache.shardingsphere.spi.database.type.DatabaseType
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/test/java/org/apache/shardingsphere/underlying/common/config/DataSourceConfigurationTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/test/java/org/apache/shardingsphere/underlying/common/config/inline/InlineExpressionParserTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/test/java/org/apache/shardingsphere/underlying/common/config/properties/ConfigurationPropertiesTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/test/java/org/apache/shardingsphere/underlying/common/database/metadata/dialect/H2DataSourceMetaDataTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/test/java/org/apache/shardingsphere/underlying/common/database/metadata/dialect/MySQLDataSourceMetaDataTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/test/java/org/apache/shardingsphere/underlying/common/database/metadata/dialect/OracleDataSourceMetaDataTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/test/java/org/apache/shardingsphere/underlying/common/database/metadata/dialect/PostgreSQLDataSourceMetaDataTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/test/java/org/apache/shardingsphere/underlying/common/database/metadata/dialect/SQL92DataSourceMetaDataTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/test/java/org/apache/shardingsphere/underlying/common/database/metadata/dialect/SQLServerDataSourceMetaDataTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/test/java/org/apache/shardingsphere/underlying/common/database/type/DatabaseTypesTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/test/java/org/apache/shardingsphere/underlying/common/hook/fixture/RootInvokeHookFixture.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/test/java/org/apache/shardingsphere/underlying/common/hook/SPIRootInvokeHookTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/test/java/org/apache/shardingsphere/underlying/common/metadata/datasource/DataSourceMetasTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/test/java/org/apache/shardingsphere/underlying/common/properties/fixture/TestTypedProperties.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/test/java/org/apache/shardingsphere/underlying/common/properties/fixture/TestTypedPropertyKey.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/test/java/org/apache/shardingsphere/underlying/common/properties/TypedPropertiesTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/test/java/org/apache/shardingsphere/underlying/common/properties/TypedPropertyValueExceptionTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/test/java/org/apache/shardingsphere/underlying/common/properties/TypedPropertyValueTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/test/java/org/apache/shardingsphere/underlying/common/rule/DataNodeTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/test/java/org/apache/shardingsphere/underlying/common/yaml/constructor/AbstractTypeConstructorTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/test/java/org/apache/shardingsphere/underlying/common/yaml/engine/fixture/DefaultYamlRepresenterFixture.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/test/java/org/apache/shardingsphere/underlying/common/yaml/engine/fixture/FixtureCustomClass.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/test/java/org/apache/shardingsphere/underlying/common/yaml/engine/fixture/FixtureTupleProcessor.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/test/java/org/apache/shardingsphere/underlying/common/yaml/engine/fixture/FixtureTypeConstructor.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/test/java/org/apache/shardingsphere/underlying/common/yaml/representer/DefaultYamlRepresenterTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-common/src/test/resources/META-INF/services/org.apache.shardingsphere.underlying.common.hook.RootInvokeHook
+ 
+*****************************************************

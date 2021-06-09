@@ -1,0 +1,44 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-16T14:04:00+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 18
+
+Apache Licensed: 18
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/database-time-service/pom.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/database-time-service/src/main/java/org/apache/shardingsphere/route/time/DatabaseTimeServiceDelegate.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/database-time-service/src/main/java/org/apache/shardingsphere/route/time/exception/NoDatabaseSQLEntrySupportException.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/database-time-service/src/main/java/org/apache/shardingsphere/route/time/exception/TimeServiceInitException.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/database-time-service/src/main/java/org/apache/shardingsphere/route/time/impl/DatabaseTimeService.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/database-time-service/src/main/java/org/apache/shardingsphere/route/time/impl/TimeServiceFactory.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/database-time-service/src/main/java/org/apache/shardingsphere/route/time/spi/DatabaseSQLEntry.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/database-time-service/src/main/java/org/apache/shardingsphere/route/time/spi/MySQLDatabaseSQLEntry.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/database-time-service/src/main/java/org/apache/shardingsphere/route/time/spi/OracleDatabaseSQLEntry.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/database-time-service/src/main/java/org/apache/shardingsphere/route/time/spi/PostgreSQLDatabaseSQLEntry.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/database-time-service/src/main/java/org/apache/shardingsphere/route/time/spi/SPIDataBaseSQLEntry.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/database-time-service/src/main/java/org/apache/shardingsphere/route/time/spi/SQLServerDatabaseSQLEntry.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/database-time-service/src/main/java/org/apache/shardingsphere/route/time/TimeServiceConfiguration.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/database-time-service/src/main/resources/META-INF/services/org.apache.shardingsphere.route.time.spi.DatabaseSQLEntry
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/database-time-service/src/main/resources/META-INF/services/org.apache.shardingsphere.sharding.route.spi.TimeService
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/database-time-service/src/main/resources/time-service.properties
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/database-time-service/src/test/java/org/apache/shardingsphere/route/time/PropertiesUtils.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/database-time-service/src/test/java/org/apache/shardingsphere/route/time/TimeServiceConfigurationTest.java
+ 
+*****************************************************

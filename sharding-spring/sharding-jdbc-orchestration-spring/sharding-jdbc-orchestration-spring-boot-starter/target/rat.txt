@@ -1,0 +1,57 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-16T14:05:35+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 31
+
+Apache Licensed: 31
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-boot-starter/pom.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-boot-starter/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/boot/common/SpringBootRootConfigurationProperties.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-boot-starter/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/boot/encrypt/LocalEncryptRuleCondition.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-boot-starter/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/boot/encrypt/SpringBootEncryptRuleConfigurationProperties.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-boot-starter/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/boot/masterslave/LocalMasterSlaveRuleCondition.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-boot-starter/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/boot/masterslave/SpringBootMasterSlaveRuleConfigurationProperties.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-boot-starter/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/boot/OrchestrationSpringBootConfiguration.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-boot-starter/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/boot/shadow/LocalShadowRuleCondition.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-boot-starter/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/boot/shadow/SpringBootShadowRuleConfigurationProperties.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-boot-starter/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/boot/sharding/LocalShardingRuleCondition.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-boot-starter/src/main/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/boot/sharding/SpringBootShardingRuleConfigurationProperties.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-boot-starter/src/main/resources/META-INF/additional-spring-configuration-metadata.json
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-boot-starter/src/main/resources/META-INF/spring.factories
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-boot-starter/src/main/resources/META-INF/spring.provides
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-boot-starter/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/boot/registry/TestCenterRepository.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-boot-starter/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/boot/type/OrchestrationSpringBootEncryptTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-boot-starter/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/boot/type/OrchestrationSpringBootMasterSlaveTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-boot-starter/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/boot/type/OrchestrationSpringBootRegistryEncryptTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-boot-starter/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/boot/type/OrchestrationSpringBootRegistryMasterSlaveTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-boot-starter/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/boot/type/OrchestrationSpringBootRegistryShardingTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-boot-starter/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/boot/type/OrchestrationSpringBootShardingTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-boot-starter/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/boot/type/SpringBootRawDataSourceTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-boot-starter/src/test/java/org/apache/shardingsphere/shardingjdbc/orchestration/spring/boot/util/EmbedTestingServer.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-boot-starter/src/test/resources/application-encrypt.properties
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-boot-starter/src/test/resources/application-masterslave.properties
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-boot-starter/src/test/resources/application-raw.properties
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-boot-starter/src/test/resources/application-registry.properties
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-boot-starter/src/test/resources/application-sharding.properties
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-boot-starter/src/test/resources/logback-test.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-boot-starter/src/test/resources/META-INF/services/org.apache.shardingsphere.orchestration.center.ConfigCenterRepository
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-spring/sharding-jdbc-orchestration-spring/sharding-jdbc-orchestration-spring-boot-starter/src/test/resources/META-INF/services/org.apache.shardingsphere.orchestration.center.RegistryCenterRepository
+ 
+*****************************************************

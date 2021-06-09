@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-sql-parser\shardingsphere-sql-parser-dialect\shardingsphere-sql-parser-sqlserver\src\main\java\org\apache\shardingsphere\sql\parser\sqlserver\lexer\SQLServerLexer.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-sql-parser\shardingsphere-sql-parser-dialect\shardingsphere-sql-parser-sqlserver\src\main\java\org\apache\shardingsphere\sql\parser\sqlserver\parser\SQLServerParser.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-sql-parser\shardingsphere-sql-parser-dialect\shardingsphere-sql-parser-sqlserver\src\main\java\org\apache\shardingsphere\sql\parser\sqlserver\SQLServerParserConfiguration.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-sql-parser\shardingsphere-sql-parser-dialect\shardingsphere-sql-parser-sqlserver\src\main\java\org\apache\shardingsphere\sql\parser\sqlserver\visitor\impl\SQLServerDALVisitor.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-sql-parser\shardingsphere-sql-parser-dialect\shardingsphere-sql-parser-sqlserver\src\main\java\org\apache\shardingsphere\sql\parser\sqlserver\visitor\impl\SQLServerDCLVisitor.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-sql-parser\shardingsphere-sql-parser-dialect\shardingsphere-sql-parser-sqlserver\src\main\java\org\apache\shardingsphere\sql\parser\sqlserver\visitor\impl\SQLServerDDLVisitor.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-sql-parser\shardingsphere-sql-parser-dialect\shardingsphere-sql-parser-sqlserver\src\main\java\org\apache\shardingsphere\sql\parser\sqlserver\visitor\impl\SQLServerDMLVisitor.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-sql-parser\shardingsphere-sql-parser-dialect\shardingsphere-sql-parser-sqlserver\src\main\java\org\apache\shardingsphere\sql\parser\sqlserver\visitor\impl\SQLServerTCLVisitor.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-sql-parser\shardingsphere-sql-parser-dialect\shardingsphere-sql-parser-sqlserver\src\main\java\org\apache\shardingsphere\sql\parser\sqlserver\visitor\SQLServerVisitor.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-sql-parser\shardingsphere-sql-parser-dialect\shardingsphere-sql-parser-sqlserver\src\main\java\org\apache\shardingsphere\sql\parser\sqlserver\visitor\SQLServerVisitorFacade.java">
+</file>
+</checkstyle>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-postgresql\src\main\java\org\apache\shardingsphere\shardingscaling\postgresql\PostgreSQLDataSourceChecker.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-postgresql\src\main\java\org\apache\shardingsphere\shardingscaling\postgresql\PostgreSQLJdbcReader.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-postgresql\src\main\java\org\apache\shardingsphere\shardingscaling\postgresql\PostgreSQLLogPositionManager.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-postgresql\src\main\java\org\apache\shardingsphere\shardingscaling\postgresql\PostgreSQLScalingEntry.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-postgresql\src\main\java\org\apache\shardingsphere\shardingscaling\postgresql\PostgreSQLSqlBuilder.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-postgresql\src\main\java\org\apache\shardingsphere\shardingscaling\postgresql\PostgreSQLWalReader.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-postgresql\src\main\java\org\apache\shardingsphere\shardingscaling\postgresql\PostgreSQLWriter.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-postgresql\src\main\java\org\apache\shardingsphere\shardingscaling\postgresql\wal\decode\DecodingException.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-postgresql\src\main\java\org\apache\shardingsphere\shardingscaling\postgresql\wal\decode\DecodingPlugin.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-postgresql\src\main\java\org\apache\shardingsphere\shardingscaling\postgresql\wal\decode\TestDecodingPlugin.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-postgresql\src\main\java\org\apache\shardingsphere\shardingscaling\postgresql\wal\event\AbstractRowEvent.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-postgresql\src\main\java\org\apache\shardingsphere\shardingscaling\postgresql\wal\event\AbstractWalEvent.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-postgresql\src\main\java\org\apache\shardingsphere\shardingscaling\postgresql\wal\event\DeleteRowEvent.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-postgresql\src\main\java\org\apache\shardingsphere\shardingscaling\postgresql\wal\event\PlaceholderEvent.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-postgresql\src\main\java\org\apache\shardingsphere\shardingscaling\postgresql\wal\event\UpdateRowEvent.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-postgresql\src\main\java\org\apache\shardingsphere\shardingscaling\postgresql\wal\event\WriteRowEvent.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-postgresql\src\main\java\org\apache\shardingsphere\shardingscaling\postgresql\wal\LogicalReplication.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-postgresql\src\main\java\org\apache\shardingsphere\shardingscaling\postgresql\wal\WalEventConverter.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-postgresql\src\main\java\org\apache\shardingsphere\shardingscaling\postgresql\WalPosition.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-postgresql\src\test\java\org\apache\shardingsphere\shardingscaling\postgresql\PostgreSQLLogPositionManagerTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-postgresql\src\test\java\org\apache\shardingsphere\shardingscaling\postgresql\wal\decode\TestDecodingPluginTest.java">
+</file>
+</checkstyle>

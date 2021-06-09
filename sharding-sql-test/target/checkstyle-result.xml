@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-sql-test\src\main\java\org\apache\shardingsphere\test\sql\loader\SQLCasesLoader.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-sql-test\src\main\java\org\apache\shardingsphere\test\sql\loader\SQLCasesRegistry.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-sql-test\src\main\java\org\apache\shardingsphere\test\sql\loader\UnsupportedSQLCasesRegistry.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-sql-test\src\main\java\org\apache\shardingsphere\test\sql\SQLCase.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-sql-test\src\main\java\org\apache\shardingsphere\test\sql\SQLCases.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-sql-test\src\main\java\org\apache\shardingsphere\test\sql\SQLCaseType.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-sql-test\src\test\java\org\apache\shardingsphere\test\sql\SQLCasesLoaderTest.java">
+</file>
+</checkstyle>

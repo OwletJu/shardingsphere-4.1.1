@@ -1,0 +1,86 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-16T14:04:03+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 60
+
+Apache Licensed: 60
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/pom.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/sharding/rewrite/context/ShardingSQLRewriteContextDecorator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/sharding/rewrite/parameter/impl/ShardingGeneratedKeyInsertValueParameterRewriter.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/sharding/rewrite/parameter/impl/ShardingPaginationParameterRewriter.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/sharding/rewrite/parameter/ShardingParameterRewriterBuilder.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/sharding/rewrite/token/generator/IgnoreForSingleRoute.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/sharding/rewrite/token/generator/impl/AggregationDistinctTokenGenerator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/sharding/rewrite/token/generator/impl/DistinctProjectionPrefixTokenGenerator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/sharding/rewrite/token/generator/impl/IndexTokenGenerator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/sharding/rewrite/token/generator/impl/keygen/BaseGeneratedKeyTokenGenerator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/sharding/rewrite/token/generator/impl/keygen/GeneratedKeyAssignmentTokenGenerator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/sharding/rewrite/token/generator/impl/keygen/GeneratedKeyForUseDefaultInsertColumnsTokenGenerator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/sharding/rewrite/token/generator/impl/keygen/GeneratedKeyInsertColumnTokenGenerator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/sharding/rewrite/token/generator/impl/keygen/GeneratedKeyInsertValuesTokenGenerator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/sharding/rewrite/token/generator/impl/OffsetTokenGenerator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/sharding/rewrite/token/generator/impl/OrderByTokenGenerator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/sharding/rewrite/token/generator/impl/ProjectionsTokenGenerator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/sharding/rewrite/token/generator/impl/RowCountTokenGenerator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/sharding/rewrite/token/generator/impl/ShardingInsertValuesTokenGenerator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/sharding/rewrite/token/generator/impl/TableTokenGenerator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/sharding/rewrite/token/pojo/AggregationDistinctToken.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/sharding/rewrite/token/pojo/DistinctProjectionPrefixToken.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/sharding/rewrite/token/pojo/GeneratedKeyAssignmentToken.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/sharding/rewrite/token/pojo/GeneratedKeyInsertColumnToken.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/sharding/rewrite/token/pojo/IndexToken.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/sharding/rewrite/token/pojo/LiteralGeneratedKeyAssignmentToken.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/sharding/rewrite/token/pojo/OffsetToken.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/sharding/rewrite/token/pojo/OrderByToken.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/sharding/rewrite/token/pojo/ParameterMarkerGeneratedKeyAssignmentToken.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/sharding/rewrite/token/pojo/ProjectionsToken.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/sharding/rewrite/token/pojo/RowCountToken.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/sharding/rewrite/token/pojo/ShardingInsertValue.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/sharding/rewrite/token/pojo/ShardingInsertValuesToken.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/sharding/rewrite/token/pojo/ShardingTokenGenerateBuilder.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/main/java/org/apache/shardingsphere/sharding/rewrite/token/pojo/TableToken.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/main/resources/META-INF/services/org.apache.shardingsphere.underlying.rewrite.context.SQLRewriteContextDecorator
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/test/java/org/apache/shardingsphere/sharding/rewrite/fixture/NormalEncryptorFixture.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/test/java/org/apache/shardingsphere/sharding/rewrite/fixture/QueryAssistedEncryptorFixture.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/test/java/org/apache/shardingsphere/sharding/rewrite/fixture/ShardingKeyGeneratorFixture.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/test/java/org/apache/shardingsphere/sharding/rewrite/parameterized/MixSQLRewriterParameterizedTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/test/java/org/apache/shardingsphere/sharding/rewrite/parameterized/ShardingSQLRewriterParameterizedTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/test/resources/logback-test.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/test/resources/META-INF/services/org.apache.shardingsphere.encrypt.strategy.spi.Encryptor
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/test/resources/META-INF/services/org.apache.shardingsphere.spi.keygen.ShardingKeyGenerator
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/test/resources/mix/delete_for_query_with_cipher.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/test/resources/mix/delete_for_query_with_plain.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/test/resources/mix/insert.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/test/resources/mix/select_for_query_with_cipher.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/test/resources/mix/select_for_query_with_plain.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/test/resources/mix/update_for_query_with_cipher.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/test/resources/mix/update_for_query_with_plain.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/test/resources/sharding/delete.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/test/resources/sharding/index.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/test/resources/sharding/insert.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/test/resources/sharding/select.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/test/resources/sharding/show.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/test/resources/sharding/update.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/test/resources/yaml/mix/query-with-cipher.yaml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/test/resources/yaml/mix/query-with-plain.yaml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-rewrite/src/test/resources/yaml/sharding/sharding-rule.yaml
+ 
+*****************************************************

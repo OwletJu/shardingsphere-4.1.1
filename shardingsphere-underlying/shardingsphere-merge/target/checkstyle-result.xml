@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-underlying\shardingsphere-merge\src\main\java\org\apache\shardingsphere\underlying\merge\engine\decorator\impl\TransparentResultDecorator.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-underlying\shardingsphere-merge\src\main\java\org\apache\shardingsphere\underlying\merge\engine\decorator\ResultDecorator.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-underlying\shardingsphere-merge\src\main\java\org\apache\shardingsphere\underlying\merge\engine\decorator\ResultDecoratorEngine.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-underlying\shardingsphere-merge\src\main\java\org\apache\shardingsphere\underlying\merge\engine\merger\impl\TransparentResultMerger.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-underlying\shardingsphere-merge\src\main\java\org\apache\shardingsphere\underlying\merge\engine\merger\ResultMerger.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-underlying\shardingsphere-merge\src\main\java\org\apache\shardingsphere\underlying\merge\engine\merger\ResultMergerEngine.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-underlying\shardingsphere-merge\src\main\java\org\apache\shardingsphere\underlying\merge\engine\ResultProcessEngine.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-underlying\shardingsphere-merge\src\main\java\org\apache\shardingsphere\underlying\merge\MergeEntry.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-underlying\shardingsphere-merge\src\main\java\org\apache\shardingsphere\underlying\merge\result\impl\decorator\DecoratorMergedResult.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-underlying\shardingsphere-merge\src\main\java\org\apache\shardingsphere\underlying\merge\result\impl\memory\MemoryMergedResult.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-underlying\shardingsphere-merge\src\main\java\org\apache\shardingsphere\underlying\merge\result\impl\memory\MemoryQueryResultRow.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-underlying\shardingsphere-merge\src\main\java\org\apache\shardingsphere\underlying\merge\result\impl\stream\StreamMergedResult.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-underlying\shardingsphere-merge\src\main\java\org\apache\shardingsphere\underlying\merge\result\impl\transparent\TransparentMergedResult.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-underlying\shardingsphere-merge\src\main\java\org\apache\shardingsphere\underlying\merge\result\MergedResult.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-underlying\shardingsphere-merge\src\test\java\org\apache\shardingsphere\underlying\merge\result\impl\decorator\DecoratorMergedResultTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-underlying\shardingsphere-merge\src\test\java\org\apache\shardingsphere\underlying\merge\result\impl\decorator\fixture\TestDecoratorMergedResult.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-underlying\shardingsphere-merge\src\test\java\org\apache\shardingsphere\underlying\merge\result\impl\fixture\TestRule.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-underlying\shardingsphere-merge\src\test\java\org\apache\shardingsphere\underlying\merge\result\impl\memory\fixture\TestMemoryMergedResult.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-underlying\shardingsphere-merge\src\test\java\org\apache\shardingsphere\underlying\merge\result\impl\memory\MemoryMergedResultTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-underlying\shardingsphere-merge\src\test\java\org\apache\shardingsphere\underlying\merge\result\impl\memory\MemoryQueryResultRowTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-underlying\shardingsphere-merge\src\test\java\org\apache\shardingsphere\underlying\merge\result\impl\stream\fixture\TestStreamMergedResult.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-underlying\shardingsphere-merge\src\test\java\org\apache\shardingsphere\underlying\merge\result\impl\stream\StreamMergedResultTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-underlying\shardingsphere-merge\src\test\java\org\apache\shardingsphere\underlying\merge\result\impl\transparent\TransparentMergedResultTest.java">
+</file>
+</checkstyle>

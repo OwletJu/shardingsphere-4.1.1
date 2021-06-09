@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-orchestration\sharding-orchestration-center\sharding-orchestration-center-configuration\src\main\java\org\apache\shardingsphere\orchestration\center\yaml\config\YamlCenterRepositoryConfiguration.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-orchestration\sharding-orchestration-center\sharding-orchestration-center-configuration\src\main\java\org\apache\shardingsphere\orchestration\center\yaml\config\YamlOrchestrationConfiguration.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-orchestration\sharding-orchestration-center\sharding-orchestration-center-configuration\src\main\java\org\apache\shardingsphere\orchestration\center\yaml\swapper\CenterRepositoryConfigurationYamlSwapper.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-orchestration\sharding-orchestration-center\sharding-orchestration-center-configuration\src\main\java\org\apache\shardingsphere\orchestration\center\yaml\swapper\OrchestrationConfigurationYamlSwapper.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-orchestration\sharding-orchestration-center\sharding-orchestration-center-configuration\src\test\java\org\apache\shardingsphere\orchestration\center\yaml\config\YamlCenterRepositoryConfigurationTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-orchestration\sharding-orchestration-center\sharding-orchestration-center-configuration\src\test\java\org\apache\shardingsphere\orchestration\center\yaml\config\YamlOrchestrationConfigurationTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-orchestration\sharding-orchestration-center\sharding-orchestration-center-configuration\src\test\java\org\apache\shardingsphere\orchestration\center\yaml\swapper\CenterRepositoryConfigurationYamlSwapperTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-orchestration\sharding-orchestration-center\sharding-orchestration-center-configuration\src\test\java\org\apache\shardingsphere\orchestration\center\yaml\swapper\OrchestrationConfigurationYamlSwapperTest.java">
+</file>
+</checkstyle>

@@ -1,0 +1,6 @@
+org\apache\shardingsphere\orchestration\center\instance\wrapper\ApolloOpenApiWrapper.class
+org\apache\shardingsphere\orchestration\center\instance\ApolloProperties.class
+org\apache\shardingsphere\orchestration\center\instance\ApolloCenterRepository$1.class
+org\apache\shardingsphere\orchestration\center\instance\ApolloCenterRepository.class
+org\apache\shardingsphere\orchestration\center\instance\wrapper\ApolloConfigWrapper.class
+org\apache\shardingsphere\orchestration\center\instance\ApolloPropertyKey.class

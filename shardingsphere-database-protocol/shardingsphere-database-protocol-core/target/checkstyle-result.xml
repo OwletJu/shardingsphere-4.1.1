@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-core\src\main\java\org\apache\shardingsphere\database\protocol\codec\DatabasePacketCodecEngine.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-core\src\main\java\org\apache\shardingsphere\database\protocol\codec\PacketCodec.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-core\src\main\java\org\apache\shardingsphere\database\protocol\error\CommonErrorCode.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-core\src\main\java\org\apache\shardingsphere\database\protocol\error\SQLErrorCode.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-core\src\main\java\org\apache\shardingsphere\database\protocol\packet\CommandPacket.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-core\src\main\java\org\apache\shardingsphere\database\protocol\packet\CommandPacketType.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-core\src\main\java\org\apache\shardingsphere\database\protocol\packet\DatabasePacket.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-core\src\main\java\org\apache\shardingsphere\database\protocol\payload\PacketPayload.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-core\src\test\java\org\apache\shardingsphere\database\protocol\codec\PacketCodecTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-core\src\test\java\org\apache\shardingsphere\database\protocol\error\CommonErrorCodeTest.java">
+</file>
+</checkstyle>

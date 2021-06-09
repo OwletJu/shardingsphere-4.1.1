@@ -1,0 +1,77 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-16T14:04:02+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 51
+
+Apache Licensed: 51
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/pom.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/main/java/org/apache/shardingsphere/encrypt/rewrite/aware/QueryWithCipherColumnAware.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/main/java/org/apache/shardingsphere/encrypt/rewrite/condition/EncryptCondition.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/main/java/org/apache/shardingsphere/encrypt/rewrite/condition/EncryptConditionEngine.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/main/java/org/apache/shardingsphere/encrypt/rewrite/condition/impl/EncryptEqualCondition.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/main/java/org/apache/shardingsphere/encrypt/rewrite/condition/impl/EncryptInCondition.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/main/java/org/apache/shardingsphere/encrypt/rewrite/context/EncryptSQLRewriteContextDecorator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/main/java/org/apache/shardingsphere/encrypt/rewrite/parameter/EncryptParameterRewriter.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/main/java/org/apache/shardingsphere/encrypt/rewrite/parameter/EncryptParameterRewriterBuilder.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/main/java/org/apache/shardingsphere/encrypt/rewrite/parameter/impl/EncryptAssignmentParameterRewriter.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/main/java/org/apache/shardingsphere/encrypt/rewrite/parameter/impl/EncryptInsertOnDuplicateKeyUpdateValueParameterRewriter.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/main/java/org/apache/shardingsphere/encrypt/rewrite/parameter/impl/EncryptInsertValueParameterRewriter.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/main/java/org/apache/shardingsphere/encrypt/rewrite/parameter/impl/EncryptPredicateParameterRewriter.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/main/java/org/apache/shardingsphere/encrypt/rewrite/token/EncryptTokenGenerateBuilder.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/main/java/org/apache/shardingsphere/encrypt/rewrite/token/generator/BaseEncryptSQLTokenGenerator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/main/java/org/apache/shardingsphere/encrypt/rewrite/token/generator/impl/AssistQueryAndPlainInsertColumnsTokenGenerator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/main/java/org/apache/shardingsphere/encrypt/rewrite/token/generator/impl/EncryptAssignmentTokenGenerator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/main/java/org/apache/shardingsphere/encrypt/rewrite/token/generator/impl/EncryptForUseDefaultInsertColumnsTokenGenerator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/main/java/org/apache/shardingsphere/encrypt/rewrite/token/generator/impl/EncryptInsertOnUpdateTokenGenerator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/main/java/org/apache/shardingsphere/encrypt/rewrite/token/generator/impl/EncryptInsertValuesTokenGenerator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/main/java/org/apache/shardingsphere/encrypt/rewrite/token/generator/impl/EncryptPredicateColumnTokenGenerator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/main/java/org/apache/shardingsphere/encrypt/rewrite/token/generator/impl/EncryptPredicateRightValueTokenGenerator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/main/java/org/apache/shardingsphere/encrypt/rewrite/token/generator/impl/EncryptProjectionTokenGenerator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/main/java/org/apache/shardingsphere/encrypt/rewrite/token/generator/impl/InsertCipherNameTokenGenerator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/main/java/org/apache/shardingsphere/encrypt/rewrite/token/pojo/EncryptAssignmentToken.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/main/java/org/apache/shardingsphere/encrypt/rewrite/token/pojo/EncryptInsertValuesToken.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/main/java/org/apache/shardingsphere/encrypt/rewrite/token/pojo/EncryptLiteralAssignmentToken.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/main/java/org/apache/shardingsphere/encrypt/rewrite/token/pojo/EncryptParameterAssignmentToken.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/main/java/org/apache/shardingsphere/encrypt/rewrite/token/pojo/EncryptPredicateEqualRightValueToken.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/main/java/org/apache/shardingsphere/encrypt/rewrite/token/pojo/EncryptPredicateInRightValueToken.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/main/resources/META-INF/services/org.apache.shardingsphere.underlying.rewrite.context.SQLRewriteContextDecorator
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/test/java/org/apache/shardingsphere/encrypt/rewrite/condition/impl/EncryptEqualConditionTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/test/java/org/apache/shardingsphere/encrypt/rewrite/condition/impl/EncryptInConditionTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/test/java/org/apache/shardingsphere/encrypt/rewrite/fixture/NormalEncryptorFixture.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/test/java/org/apache/shardingsphere/encrypt/rewrite/fixture/QueryAssistedEncryptorFixture.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/test/java/org/apache/shardingsphere/encrypt/rewrite/parameterized/EncryptSQLRewriterParameterizedTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/test/java/org/apache/shardingsphere/encrypt/rewrite/pojo/EncryptLiteralAssignmentTokenTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/test/java/org/apache/shardingsphere/encrypt/rewrite/pojo/EncryptParameterAssignmentTokenTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/test/java/org/apache/shardingsphere/encrypt/rewrite/pojo/EncryptPredicateEqualRightValueTokenTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/test/java/org/apache/shardingsphere/encrypt/rewrite/pojo/EncryptPredicateInRightValueTokenTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/test/resources/encrypt/delete_for_query_with_cipher.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/test/resources/encrypt/delete_for_query_with_plain.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/test/resources/encrypt/insert.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/test/resources/encrypt/select_for_query_with_cipher.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/test/resources/encrypt/select_for_query_with_plain.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/test/resources/encrypt/update_for_query_with_cipher.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/test/resources/encrypt/update_for_query_with_plain.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/test/resources/logback-test.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/test/resources/META-INF/services/org.apache.shardingsphere.encrypt.strategy.spi.Encryptor
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/test/resources/yaml/encrypt/query-with-cipher.yaml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-rewrite/src/test/resources/yaml/encrypt/query-with-plain.yaml
+ 
+*****************************************************

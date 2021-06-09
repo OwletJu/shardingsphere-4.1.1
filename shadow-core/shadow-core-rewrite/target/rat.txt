@@ -1,0 +1,47 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-16T14:04:15+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 21
+
+Apache Licensed: 21
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shadow-core/shadow-core-rewrite/pom.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shadow-core/shadow-core-rewrite/src/main/java/org/apache/shardingsphere/shadow/rewrite/aware/ShadowRuleAware.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shadow-core/shadow-core-rewrite/src/main/java/org/apache/shardingsphere/shadow/rewrite/condition/ShadowCondition.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shadow-core/shadow-core-rewrite/src/main/java/org/apache/shardingsphere/shadow/rewrite/condition/ShadowConditionEngine.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shadow-core/shadow-core-rewrite/src/main/java/org/apache/shardingsphere/shadow/rewrite/context/ShadowSQLRewriteContextDecorator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shadow-core/shadow-core-rewrite/src/main/java/org/apache/shardingsphere/shadow/rewrite/judgement/impl/PreparedJudgementEngine.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shadow-core/shadow-core-rewrite/src/main/java/org/apache/shardingsphere/shadow/rewrite/judgement/impl/SimpleJudgementEngine.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shadow-core/shadow-core-rewrite/src/main/java/org/apache/shardingsphere/shadow/rewrite/judgement/ShadowJudgementEngine.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shadow-core/shadow-core-rewrite/src/main/java/org/apache/shardingsphere/shadow/rewrite/parameter/impl/ShadowInsertValueParameterRewriter.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shadow-core/shadow-core-rewrite/src/main/java/org/apache/shardingsphere/shadow/rewrite/parameter/impl/ShadowPredicateParameterRewriter.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shadow-core/shadow-core-rewrite/src/main/java/org/apache/shardingsphere/shadow/rewrite/parameter/ShadowParameterRewriter.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shadow-core/shadow-core-rewrite/src/main/java/org/apache/shardingsphere/shadow/rewrite/parameter/ShadowParameterRewriterBuilder.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shadow-core/shadow-core-rewrite/src/main/java/org/apache/shardingsphere/shadow/rewrite/token/generator/BaseShadowSQLTokenGenerator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shadow-core/shadow-core-rewrite/src/main/java/org/apache/shardingsphere/shadow/rewrite/token/generator/impl/RemoveShadowColumnTokenGenerator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shadow-core/shadow-core-rewrite/src/main/java/org/apache/shardingsphere/shadow/rewrite/token/generator/impl/ShadowInsertValuesTokenGenerator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shadow-core/shadow-core-rewrite/src/main/java/org/apache/shardingsphere/shadow/rewrite/token/generator/impl/ShadowPredicateColumnTokenGenerator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shadow-core/shadow-core-rewrite/src/main/java/org/apache/shardingsphere/shadow/rewrite/token/pojo/ShadowInsertValuesToken.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shadow-core/shadow-core-rewrite/src/main/java/org/apache/shardingsphere/shadow/rewrite/token/ShadowTokenGenerateBuilder.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shadow-core/shadow-core-rewrite/src/test/java/org/apache/shardingsphere/shadow/rewrite/condition/ShadowConditionEngineTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shadow-core/shadow-core-rewrite/src/test/java/org/apache/shardingsphere/shadow/rewrite/judgement/impl/PreparedJudgementEngineTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shadow-core/shadow-core-rewrite/src/test/java/org/apache/shardingsphere/shadow/rewrite/judgement/impl/SimpleJudgementEngineTest.java
+ 
+*****************************************************

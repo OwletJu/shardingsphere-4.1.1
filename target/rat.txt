@@ -1,0 +1,38 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-16T14:02:39+08:00
+
+Notes: 2
+Binaries: 0
+Archives: 0
+Standards: 10
+
+Apache Licensed: 10
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    .asf.yaml
+  AL    .mvn/wrapper/MavenWrapperDownloader.java
+  AL    jenkinsfile
+  N     LICENSE
+  AL    lombok.config
+  AL    mvnw
+  AL    mvnw.cmd
+  N     NOTICE
+  AL    pom.xml
+  AL    src/resources/checkstyle.xml
+  AL    src/resources/checkstyle_ci.xml
+  AL    src/resources/ruleset.xml
+ 
+*****************************************************

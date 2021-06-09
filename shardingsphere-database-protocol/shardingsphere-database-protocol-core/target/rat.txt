@@ -1,0 +1,38 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-16T14:03:27+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 12
+
+Apache Licensed: 12
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-core/pom.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-core/src/main/java/org/apache/shardingsphere/database/protocol/codec/DatabasePacketCodecEngine.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-core/src/main/java/org/apache/shardingsphere/database/protocol/codec/PacketCodec.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-core/src/main/java/org/apache/shardingsphere/database/protocol/error/CommonErrorCode.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-core/src/main/java/org/apache/shardingsphere/database/protocol/error/SQLErrorCode.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-core/src/main/java/org/apache/shardingsphere/database/protocol/packet/CommandPacket.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-core/src/main/java/org/apache/shardingsphere/database/protocol/packet/CommandPacketType.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-core/src/main/java/org/apache/shardingsphere/database/protocol/packet/DatabasePacket.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-core/src/main/java/org/apache/shardingsphere/database/protocol/payload/PacketPayload.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-core/src/test/java/org/apache/shardingsphere/database/protocol/codec/PacketCodecTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-core/src/test/java/org/apache/shardingsphere/database/protocol/error/CommonErrorCodeTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-database-protocol/shardingsphere-database-protocol-core/src/test/resources/logback-test.xml
+ 
+*****************************************************

@@ -1,0 +1,39 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-16T14:04:25+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 13
+
+Apache Licensed: 13
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-center/sharding-orchestration-center-api/pom.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-center/sharding-orchestration-center-api/src/main/java/org/apache/shardingsphere/orchestration/center/CenterRepository.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-center/sharding-orchestration-center-api/src/main/java/org/apache/shardingsphere/orchestration/center/config/CenterConfiguration.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-center/sharding-orchestration-center-api/src/main/java/org/apache/shardingsphere/orchestration/center/config/OrchestrationConfiguration.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-center/sharding-orchestration-center-api/src/main/java/org/apache/shardingsphere/orchestration/center/ConfigCenterRepository.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-center/sharding-orchestration-center-api/src/main/java/org/apache/shardingsphere/orchestration/center/exception/OrchestrationException.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-center/sharding-orchestration-center-api/src/main/java/org/apache/shardingsphere/orchestration/center/listener/DataChangedEvent.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-center/sharding-orchestration-center-api/src/main/java/org/apache/shardingsphere/orchestration/center/listener/DataChangedEventListener.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-center/sharding-orchestration-center-api/src/main/java/org/apache/shardingsphere/orchestration/center/RegistryCenterRepository.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-center/sharding-orchestration-center-api/src/main/java/org/apache/shardingsphere/orchestration/center/util/ConfigKeyUtils.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-center/sharding-orchestration-center-api/src/test/java/org/apache/shardingsphere/orchestration/center/config/CenterConfigurationTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-center/sharding-orchestration-center-api/src/test/java/org/apache/shardingsphere/orchestration/center/config/OrchestrationConfigurationTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-center/sharding-orchestration-center-api/src/test/java/org/apache/shardingsphere/orchestration/center/util/ConfigKeyUtilsTest.java
+ 
+*****************************************************

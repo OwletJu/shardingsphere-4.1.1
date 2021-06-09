@@ -1,0 +1,42 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-16T14:05:16+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 16
+
+Apache Licensed: 16
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-bootstrap/pom.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-bootstrap/src/main/java/org/apache/shardingsphere/shardingscaling/Bootstrap.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-bootstrap/src/main/java/org/apache/shardingsphere/shardingscaling/utils/ResponseContentUtil.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-bootstrap/src/main/java/org/apache/shardingsphere/shardingscaling/utils/RuntimeUtil.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-bootstrap/src/main/java/org/apache/shardingsphere/shardingscaling/web/entity/ResponseCode.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-bootstrap/src/main/java/org/apache/shardingsphere/shardingscaling/web/entity/ResponseContent.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-bootstrap/src/main/java/org/apache/shardingsphere/shardingscaling/web/HttpServerHandler.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-bootstrap/src/main/java/org/apache/shardingsphere/shardingscaling/web/HttpServerInitializer.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-bootstrap/src/main/resources/conf/server.yaml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-bootstrap/src/main/resources/logback.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-bootstrap/src/test/java/org/apache/shardingsphere/shardingscaling/fixture/FixtureH2DataSourceChecker.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-bootstrap/src/test/java/org/apache/shardingsphere/shardingscaling/fixture/FixtureH2ScalingEntry.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-bootstrap/src/test/java/org/apache/shardingsphere/shardingscaling/fixture/FixtureNopLogManager.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-bootstrap/src/test/java/org/apache/shardingsphere/shardingscaling/web/HttpServerHandlerTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-bootstrap/src/test/resources/config.json
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-scaling/sharding-scaling-bootstrap/src/test/resources/META-INF/services/org.apache.shardingsphere.shardingscaling.core.spi.ScalingEntry
+ 
+*****************************************************

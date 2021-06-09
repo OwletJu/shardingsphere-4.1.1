@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shardingsphere-pluggable" />
+        <module name="shardingsphere-spi" />
+        <module name="sharding-scaling-bootstrap" />
+        <module name="shardingsphere-sql-parser-test" />
+        <module name="sharding-transaction-xa-bitronix-manager" />
+        <module name="sharding-orchestration-core-configuration" />
+        <module name="shardingsphere-database-protocol-mysql" />
+        <module name="sharding-core-common" />
+        <module name="sharding-opentracing" />
+        <module name="shardingsphere-sql-parser-sqlserver" />
+        <module name="database-time-service" />
+        <module name="shardingsphere-src-distribution" />
+        <module name="sharding-core-merge" />
+        <module name="encrypt-core-rewrite" />
+        <module name="sharding-transaction-xa-atomikos-manager" />
+        <module name="sharding-jdbc-spring-namespace" />
+        <module name="sharding-scaling-postgresql" />
+        <module name="shardingsphere-sql-parser-binder" />
+        <module name="sharding-core-execute" />
+        <module name="master-slave-core-route" />
+        <module name="sharding-orchestration-center-etcd" />
+        <module name="sharding-orchestration-core-configcenter" />
+        <module name="sharding-orchestration-core-facade" />
+        <module name="shardingsphere-executor" />
+        <module name="sharding-transaction-xa-core" />
+        <module name="sharding-orchestration-center-apollo" />
+        <module name="sharding-jdbc-orchestration-spring-boot-starter" />
+        <module name="shardingsphere-database-protocol-core" />
+        <module name="shardingsphere-sql-parser-mysql" />
+        <module name="sharding-jdbc-spring-boot-starter" />
+        <module name="sharding-core-api" />
+        <module name="shardingsphere-common" />
+        <module name="shardingsphere-database-protocol-postgresql" />
+        <module name="sharding-core-rewrite" />
+        <module name="encrypt-core-api" />
+        <module name="sharding-proxy-frontend-spi" />
+        <module name="sharding-transaction-base-seata-at" />
+        <module name="shardingsphere-sql-parser-statement" />
+        <module name="sharding-core-route" />
+        <module name="shardingsphere-merge" />
+        <module name="sharding-scaling-mysql" />
+        <module name="sharding-scaling-distribution" />
+        <module name="shardingsphere-rewrite-test" />
+        <module name="sharding-transaction-xa-narayana-manager" />
+        <module name="sharding-proxy-common" />
+        <module name="sharding-orchestration-center-configuration" />
+        <module name="encrypt-core-common" />
+        <module name="encrypt-core-merge" />
+        <module name="sharding-transaction-spring" />
+        <module name="sharding-proxy-frontend-core" />
+        <module name="sharding-spring-boot-util" />
+        <module name="shardingsphere-sql-parser-oracle" />
+        <module name="sharding-scaling-core" />
+        <module name="sharding-orchestration-center-nacos" />
+        <module name="sharding-transaction-core" />
+        <module name="shardingsphere-rewrite-engine" />
+        <module name="sharding-proxy-frontend-mysql" />
+        <module name="shardingsphere-sql-parser-engine" />
+        <module name="sharding-jdbc-orchestration" />
+        <module name="shardingsphere-sql-parser-spi" />
+        <module name="sharding-proxy-backend" />
+        <module name="sharding-orchestration-core-common" />
+        <module name="shardingsphere-route" />
+        <module name="sharding-jdbc-test" />
+        <module name="shardingsphere-sql-parser-postgresql" />
+        <module name="shardingsphere-sql-parser-sql92" />
+        <module name="sharding-transaction-xa-spi" />
+        <module name="sharding-proxy-distribution" />
+        <module name="shadow-core-rewrite" />
+        <module name="sharding-proxy-frontend-postgresql" />
+        <module name="sharding-orchestration-center-api" />
+        <module name="sharding-jdbc-distribution" />
+        <module name="sharding-orchestration-core-registrycenter" />
+        <module name="sharding-sql-test" />
+        <module name="sharding-proxy-bootstrap" />
+        <module name="sharding-jdbc-core" />
+        <module name="sharding-orchestration-center-zookeeper-curator" />
+        <module name="sharding-jdbc-orchestration-spring-namespace" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="database-time-service" target="1.8" />
+      <module name="encrypt-core" target="1.7" />
+      <module name="encrypt-core-api" target="1.8" />
+      <module name="encrypt-core-common" target="1.8" />
+      <module name="encrypt-core-merge" target="1.8" />
+      <module name="encrypt-core-rewrite" target="1.8" />
+      <module name="master-slave-core" target="1.7" />
+      <module name="master-slave-core-route" target="1.8" />
+      <module name="shadow-core" target="1.7" />
+      <module name="shadow-core-rewrite" target="1.8" />
+      <module name="sharding-core" target="1.7" />
+      <module name="sharding-core-api" target="1.8" />
+      <module name="sharding-core-common" target="1.8" />
+      <module name="sharding-core-execute" target="1.8" />
+      <module name="sharding-core-merge" target="1.8" />
+      <module name="sharding-core-rewrite" target="1.8" />
+      <module name="sharding-core-route" target="1.8" />
+      <module name="sharding-distribution" target="1.7" />
+      <module name="sharding-integration-test" target="1.7" />
+      <module name="sharding-jdbc" target="1.7" />
+      <module name="sharding-jdbc-core" target="1.8" />
+      <module name="sharding-jdbc-distribution" target="1.8" />
+      <module name="sharding-jdbc-orchestration" target="1.8" />
+      <module name="sharding-jdbc-orchestration-spring" target="1.7" />
+      <module name="sharding-jdbc-orchestration-spring-boot-starter" target="1.8" />
+      <module name="sharding-jdbc-orchestration-spring-namespace" target="1.8" />
+      <module name="sharding-jdbc-spring" target="1.7" />
+      <module name="sharding-jdbc-spring-boot-starter" target="1.8" />
+      <module name="sharding-jdbc-spring-namespace" target="1.8" />
+      <module name="sharding-jdbc-test" target="1.8" />
+      <module name="sharding-opentracing" target="1.8" />
+      <module name="sharding-orchestration" target="1.7" />
+      <module name="sharding-orchestration-center" target="1.7" />
+      <module name="sharding-orchestration-center-api" target="1.8" />
+      <module name="sharding-orchestration-center-apollo" target="1.8" />
+      <module name="sharding-orchestration-center-configuration" target="1.8" />
+      <module name="sharding-orchestration-center-etcd" target="1.8" />
+      <module name="sharding-orchestration-center-nacos" target="1.8" />
+      <module name="sharding-orchestration-center-zookeeper-curator" target="1.8" />
+      <module name="sharding-orchestration-core" target="1.7" />
+      <module name="sharding-orchestration-core-common" target="1.8" />
+      <module name="sharding-orchestration-core-configcenter" target="1.8" />
+      <module name="sharding-orchestration-core-configuration" target="1.8" />
+      <module name="sharding-orchestration-core-facade" target="1.8" />
+      <module name="sharding-orchestration-core-registrycenter" target="1.8" />
+      <module name="sharding-proxy" target="1.7" />
+      <module name="sharding-proxy-backend" target="1.8" />
+      <module name="sharding-proxy-bootstrap" target="1.8" />
+      <module name="sharding-proxy-common" target="1.8" />
+      <module name="sharding-proxy-distribution" target="1.8" />
+      <module name="sharding-proxy-frontend" target="1.7" />
+      <module name="sharding-proxy-frontend-core" target="1.8" />
+      <module name="sharding-proxy-frontend-mysql" target="1.8" />
+      <module name="sharding-proxy-frontend-postgresql" target="1.8" />
+      <module name="sharding-proxy-frontend-spi" target="1.8" />
+      <module name="sharding-scaling" target="1.7" />
+      <module name="sharding-scaling-bootstrap" target="1.8" />
+      <module name="sharding-scaling-core" target="1.8" />
+      <module name="sharding-scaling-distribution" target="1.8" />
+      <module name="sharding-scaling-mysql" target="1.8" />
+      <module name="sharding-scaling-postgresql" target="1.8" />
+      <module name="sharding-spring" target="1.7" />
+      <module name="sharding-spring-boot-util" target="1.8" />
+      <module name="sharding-sql-test" target="1.8" />
+      <module name="sharding-transaction" target="1.7" />
+      <module name="sharding-transaction-2pc" target="1.7" />
+      <module name="sharding-transaction-base" target="1.7" />
+      <module name="sharding-transaction-base-seata-at" target="1.8" />
+      <module name="sharding-transaction-core" target="1.8" />
+      <module name="sharding-transaction-spring" target="1.8" />
+      <module name="sharding-transaction-xa" target="1.7" />
+      <module name="sharding-transaction-xa-atomikos" target="1.7" />
+      <module name="sharding-transaction-xa-atomikos-manager" target="1.8" />
+      <module name="sharding-transaction-xa-bitronix" target="1.7" />
+      <module name="sharding-transaction-xa-bitronix-manager" target="1.8" />
+      <module name="sharding-transaction-xa-core" target="1.8" />
+      <module name="sharding-transaction-xa-narayana" target="1.7" />
+      <module name="sharding-transaction-xa-narayana-manager" target="1.8" />
+      <module name="sharding-transaction-xa-spi" target="1.8" />
+      <module name="shardingsphere" target="1.7" />
+      <module name="shardingsphere-common" target="1.8" />
+      <module name="shardingsphere-database-protocol" target="1.7" />
+      <module name="shardingsphere-database-protocol-core" target="1.8" />
+      <module name="shardingsphere-database-protocol-mysql" target="1.8" />
+      <module name="shardingsphere-database-protocol-postgresql" target="1.8" />
+      <module name="shardingsphere-executor" target="1.8" />
+      <module name="shardingsphere-merge" target="1.8" />
+      <module name="shardingsphere-pluggable" target="1.8" />
+      <module name="shardingsphere-rewrite" target="1.7" />
+      <module name="shardingsphere-rewrite-engine" target="1.8" />
+      <module name="shardingsphere-rewrite-test" target="1.8" />
+      <module name="shardingsphere-route" target="1.8" />
+      <module name="shardingsphere-spi" target="1.8" />
+      <module name="shardingsphere-sql-parser" target="1.7" />
+      <module name="shardingsphere-sql-parser-binder" target="1.8" />
+      <module name="shardingsphere-sql-parser-dialect" target="1.7" />
+      <module name="shardingsphere-sql-parser-engine" target="1.8" />
+      <module name="shardingsphere-sql-parser-mysql" target="1.8" />
+      <module name="shardingsphere-sql-parser-oracle" target="1.8" />
+      <module name="shardingsphere-sql-parser-postgresql" target="1.8" />
+      <module name="shardingsphere-sql-parser-spi" target="1.8" />
+      <module name="shardingsphere-sql-parser-sql92" target="1.8" />
+      <module name="shardingsphere-sql-parser-sqlserver" target="1.8" />
+      <module name="shardingsphere-sql-parser-statement" target="1.8" />
+      <module name="shardingsphere-sql-parser-test" target="1.8" />
+      <module name="shardingsphere-src-distribution" target="1.8" />
+      <module name="shardingsphere-underlying" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

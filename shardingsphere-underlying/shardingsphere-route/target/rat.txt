@@ -1,0 +1,40 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-16T14:03:36+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 14
+
+Apache Licensed: 14
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-route/pom.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-route/src/main/java/org/apache/shardingsphere/underlying/route/context/RouteContext.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-route/src/main/java/org/apache/shardingsphere/underlying/route/context/RouteMapper.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-route/src/main/java/org/apache/shardingsphere/underlying/route/context/RouteResult.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-route/src/main/java/org/apache/shardingsphere/underlying/route/context/RouteUnit.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-route/src/main/java/org/apache/shardingsphere/underlying/route/DataNodeRouter.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-route/src/main/java/org/apache/shardingsphere/underlying/route/decorator/RouteDecorator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-route/src/main/java/org/apache/shardingsphere/underlying/route/hook/RoutingHook.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-route/src/main/java/org/apache/shardingsphere/underlying/route/hook/SPIRoutingHook.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-route/src/test/java/org/apache/shardingsphere/underlying/route/context/RouteResultTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-route/src/test/java/org/apache/shardingsphere/underlying/route/context/RouteUnitTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-route/src/test/java/org/apache/shardingsphere/underlying/route/hook/fixture/RoutingHookFixture.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-route/src/test/java/org/apache/shardingsphere/underlying/route/hook/SPIRoutingHookTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-route/src/test/resources/META-INF/services/org.apache.shardingsphere.underlying.route.hook.RoutingHook
+ 
+*****************************************************

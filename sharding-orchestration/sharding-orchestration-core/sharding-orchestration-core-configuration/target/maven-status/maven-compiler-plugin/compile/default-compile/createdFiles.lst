@@ -1,0 +1,2 @@
+org\apache\shardingsphere\orchestration\core\configuration\YamlDataSourceConfiguration.class
+org\apache\shardingsphere\orchestration\core\configuration\DataSourceConfigurationYamlSwapper.class

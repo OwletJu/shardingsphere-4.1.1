@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\codec\MySQLPacketCodecEngine.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\constant\MySQLAuthenticationMethod.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\constant\MySQLBinlogEventFlag.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\constant\MySQLBinlogEventType.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\constant\MySQLCapabilityFlag.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\constant\MySQLColumnType.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\constant\MySQLConnectionPhase.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\constant\MySQLNewParametersBoundFlag.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\constant\MySQLServerErrorCode.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\constant\MySQLServerInfo.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\constant\MySQLStatusFlag.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\AbstractMySQLBinlogEventPacket.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\management\MySQLBinlogFormatDescriptionEventPacket.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\management\MySQLBinlogRotateEventPacket.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\MySQLBinlogEventHeader.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\MySQLBinlogEventPacket.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\MySQLBinlogColumnDef.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\blob\MySQLBlobBinlogProtocolValue.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\decimal\MySQLDecimalBinlogProtocolValue.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\decimal\MySQLDoubleBinlogProtocolValue.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\decimal\MySQLFloatBinlogProtocolValue.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\integer\MySQLInt24BinlogProtocolValue.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\integer\MySQLLongBinlogProtocolValue.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\integer\MySQLLongLongBinlogProtocolValue.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\integer\MySQLShortBinlogProtocolValue.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\integer\MySQLTinyBinlogProtocolValue.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\MySQLBinlogProtocolValue.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\MySQLBinlogProtocolValueFactory.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\string\MySQLJsonBinlogProtocolValue.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\string\MySQLJsonValueDecoder.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\string\MySQLStringBinlogProtocolValue.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\string\MySQLVarcharBinlogProtocolValue.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\time\MySQLDateBinlogProtocolValue.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\time\MySQLDatetime2BinlogProtocolValue.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\time\MySQLDatetimeBinlogProtocolValue.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\time\MySQLFractionalSeconds.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\time\MySQLTime2BinlogProtocolValue.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\time\MySQLTimeBinlogProtocolValue.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\time\MySQLTimestamp2BinlogProtocolValue.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\time\MySQLTimestampBinlogProtocolValue.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\time\MySQLTimeValueUtil.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\time\MySQLYearBinlogProtocolValue.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\MySQLBinlogRowsEventPacket.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\MySQLBinlogTableMapEventPacket.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\admin\initdb\MySQLComInitDbPacket.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\admin\MySQLUnsupportedCommandPacket.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\admin\ping\MySQLComPingPacket.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\admin\quit\MySQLComQuitPacket.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\binlog\MySQLComBinlogDumpCommandPacket.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\binlog\MySQLComRegisterSlaveCommandPacket.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\MySQLCommandPacket.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\MySQLCommandPacketFactory.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\MySQLCommandPacketType.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\MySQLCommandPacketTypeLoader.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\close\MySQLComStmtClosePacket.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\execute\MySQLBinaryResultSetRowPacket.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\execute\MySQLComStmtExecutePacket.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\execute\MySQLNullBitmap.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\execute\protocol\MySQLBinaryProtocolValue.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\execute\protocol\MySQLBinaryProtocolValueFactory.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\execute\protocol\MySQLDateBinaryProtocolValue.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\execute\protocol\MySQLDoubleBinaryProtocolValue.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\execute\protocol\MySQLFloatBinaryProtocolValue.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\execute\protocol\MySQLInt1BinaryProtocolValue.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\execute\protocol\MySQLInt2BinaryProtocolValue.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\execute\protocol\MySQLInt4BinaryProtocolValue.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\execute\protocol\MySQLInt8BinaryProtocolValue.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\execute\protocol\MySQLStringLenencBinaryProtocolValue.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\execute\protocol\MySQLTimeBinaryProtocolValue.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\MySQLBinaryStatement.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\MySQLBinaryStatementParameterType.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\MySQLBinaryStatementRegistry.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\prepare\MySQLComStmtPrepareOKPacket.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\prepare\MySQLComStmtPreparePacket.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\reset\MySQLComStmtResetPacket.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\MySQLColumnDefinition41Packet.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\MySQLColumnFieldDetailFlag.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\MySQLFieldCountPacket.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\text\fieldlist\MySQLComFieldListPacket.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\text\MySQLTextResultSetRowPacket.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\text\query\MySQLComQueryPacket.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\generic\MySQLEofPacket.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\generic\MySQLErrPacket.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\generic\MySQLOKPacket.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\handshake\MySQLAuthPluginData.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\handshake\MySQLAuthSwitchRequestPacket.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\handshake\MySQLAuthSwitchResponsePacket.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\handshake\MySQLHandshakePacket.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\handshake\MySQLHandshakeResponse41Packet.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\handshake\MySQLRandomGenerator.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\packet\MySQLPacket.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\main\java\org\apache\shardingsphere\database\protocol\mysql\payload\MySQLPacketPayload.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\codec\MySQLPacketCodecEngineTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\constant\MySQLAuthenticationMethodTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\constant\MySQLBinlogEventFlagTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\constant\MySQLBinlogEventTypeTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\constant\MySQLCapabilityFlagTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\constant\MySQLColumnTypeTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\constant\MySQLNewParametersBoundFlagTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\constant\MySQLServerErrorCodeTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\constant\MySQLStatusFlagTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\management\MySQLBinlogFormatDescriptionEventPacketTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\management\MySQLBinlogRotateEventPacketTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\MySQLBinlogEventHeaderTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\blob\MySQLBlobBinlogProtocolValueTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\decimal\MySQLDecimalBinlogProtocolValueTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\decimal\MySQLDoubleBinlogProtocolValueTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\decimal\MySQLFloatBinlogProtocolValueTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\integer\MySQLInt24BinlogProtocolValueTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\integer\MySQLLongBinlogProtocolValueTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\integer\MySQLLongLongBinlogProtocolValueTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\integer\MySQLShortBinlogProtocolValueTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\integer\MySQLTinyBinlogProtocolValueTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\MySQLBinlogProtocolValueFactoryTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\string\MySQLJsonBinlogProtocolValueTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\string\MySQLJsonValueDecoderTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\string\MySQLStringBinlogProtocolValueTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\string\MySQLVarcharBinlogProtocolValueTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\time\MySQLDateBinlogProtocolValueTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\time\MySQLDatetime2BinlogProtocolValueTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\time\MySQLDatetimeBinlogProtocolValueTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\time\MySQLTime2BinlogProtocolValueTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\time\MySQLTimeBinlogProtocolValueTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\time\MySQLTimestamp2BinlogProtocolValueTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\time\MySQLTimestampBinlogProtocolValueTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\time\MySQLTimeValueUtilTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\column\value\time\MySQLYearBinlogProtocolValueTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\MySQLBinlogRowsEventPacketTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\binlog\row\MySQLBinlogTableMapEventPacketTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\admin\initdb\MySQLComInitDbPacketTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\admin\MySQLUnsupportedCommandPacketTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\admin\ping\MySQLComPingPacketTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\admin\quit\MySQLComQuitPacketTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\binlog\MySQLComBinlogDumpCommandPacketTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\binlog\MySQLComRegisterSlaveCommandPacketTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\MySQLCommandPacketTypeLoaderTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\MySQLMySQLCommandPacketFactoryTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\MySQLMySQLCommandPacketTypeTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\close\MySQLComStmtClosePacketTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\execute\MySQLBinaryResultSetRowPacketTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\execute\MySQLComStmtExecutePacketTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\execute\MySQLNullBitmapTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\execute\protocol\MySQLDateBinaryProtocolValueTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\execute\protocol\MySQLDoubleBinaryProtocolValueTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\execute\protocol\MySQLFloatBinaryProtocolValueTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\execute\protocol\MySQLInt1BinaryProtocolValueTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\execute\protocol\MySQLInt2BinaryProtocolValueTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\execute\protocol\MySQLInt4BinaryProtocolValueTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\execute\protocol\MySQLInt8BinaryProtocolValueTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\execute\protocol\MySQLMySQLBinaryProtocolValueFactoryTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\execute\protocol\MySQLStringLenencBinaryProtocolValueTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\execute\protocol\MySQLTimeBinaryProtocolValueTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\fixture\BinaryStatementRegistryUtil.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\MySQLBinaryStatementRegistryTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\prepare\MySQLComStmtPrepareMySQLOKPacketTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\prepare\MySQLComStmtPreparePacketTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\binary\reset\MySQLComStmtResetPacketTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\MySQLColumnDefinition41PacketTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\MySQLFieldCountPacketTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\text\fieldlist\MySQLComFieldListPacketTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\text\MySQLTextResultSetRowPacketTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\command\query\text\query\MySQLComQueryPacketTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\generic\MySQLEofPacketTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\generic\MySQLErrPacketTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\generic\MySQLOKPacketTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\handshake\MySQLAuthPluginDataTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\handshake\MySQLAuthSwitchRequestPacketTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\handshake\MySQLAuthSwitchResponsePacketTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\handshake\MySQLHandshakePacketTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\handshake\MySQLHandshakeResponse41PacketTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\packet\handshake\MySQLRandomGeneratorTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-database-protocol\shardingsphere-database-protocol-mysql\src\test\java\org\apache\shardingsphere\database\protocol\mysql\payload\MySQLPacketPayloadTest.java">
+</file>
+</checkstyle>

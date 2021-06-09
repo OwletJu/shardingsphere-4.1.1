@@ -1,0 +1,34 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-16T14:04:12+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 8
+
+Apache Licensed: 8
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/master-slave-core/master-slave-core-route/pom.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/master-slave-core/master-slave-core-route/src/main/java/org/apache/shardingsphere/masterslave/route/engine/impl/MasterSlaveDataSourceRouter.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/master-slave-core/master-slave-core-route/src/main/java/org/apache/shardingsphere/masterslave/route/engine/impl/MasterVisitedManager.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/master-slave-core/master-slave-core-route/src/main/java/org/apache/shardingsphere/masterslave/route/engine/MasterSlaveRouteDecorator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/master-slave-core/master-slave-core-route/src/main/java/org/apache/shardingsphere/masterslave/route/log/MasterSlaveSQLLogger.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/master-slave-core/master-slave-core-route/src/main/resources/META-INF/services/org.apache.shardingsphere.underlying.route.decorator.RouteDecorator
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/master-slave-core/master-slave-core-route/src/test/java/org/apache/shardingsphere/masterslave/route/engine/MasterSlaveRouteDecoratorTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/master-slave-core/master-slave-core-route/src/test/java/org/apache/shardingsphere/masterslave/route/log/MasterSlaveSQLLoggerTest.java
+ 
+*****************************************************

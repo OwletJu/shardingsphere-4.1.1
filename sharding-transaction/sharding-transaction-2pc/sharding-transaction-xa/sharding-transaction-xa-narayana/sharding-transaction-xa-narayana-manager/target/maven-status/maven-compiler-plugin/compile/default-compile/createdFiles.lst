@@ -1,0 +1,2 @@
+org\apache\shardingsphere\transaction\xa\narayana\manager\DataSourceXAResourceRecoveryHelper.class
+org\apache\shardingsphere\transaction\xa\narayana\manager\NarayanaXATransactionManager.class

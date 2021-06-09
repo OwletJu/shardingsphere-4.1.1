@@ -1,0 +1,47 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-16T14:03:40+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 21
+
+Apache Licensed: 21
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-executor/pom.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-executor/src/main/java/org/apache/shardingsphere/underlying/executor/constant/ConnectionMode.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-executor/src/main/java/org/apache/shardingsphere/underlying/executor/context/ExecutionContext.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-executor/src/main/java/org/apache/shardingsphere/underlying/executor/context/ExecutionUnit.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-executor/src/main/java/org/apache/shardingsphere/underlying/executor/context/SQLUnit.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-executor/src/main/java/org/apache/shardingsphere/underlying/executor/engine/ExecutorDataMap.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-executor/src/main/java/org/apache/shardingsphere/underlying/executor/engine/ExecutorEngine.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-executor/src/main/java/org/apache/shardingsphere/underlying/executor/engine/GroupedCallback.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-executor/src/main/java/org/apache/shardingsphere/underlying/executor/engine/impl/ShardingSphereExecutorService.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-executor/src/main/java/org/apache/shardingsphere/underlying/executor/engine/impl/ShardingSphereThreadFactoryBuilder.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-executor/src/main/java/org/apache/shardingsphere/underlying/executor/engine/InputGroup.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-executor/src/main/java/org/apache/shardingsphere/underlying/executor/hook/SPISQLExecutionHook.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-executor/src/main/java/org/apache/shardingsphere/underlying/executor/hook/SQLExecutionHook.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-executor/src/main/java/org/apache/shardingsphere/underlying/executor/log/SQLLogger.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-executor/src/main/java/org/apache/shardingsphere/underlying/executor/QueryResult.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-executor/src/test/java/org/apache/shardingsphere/underlying/executor/engine/ExecutorEngineTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-executor/src/test/java/org/apache/shardingsphere/underlying/executor/engine/fixture/GroupedCallbackFixture.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-executor/src/test/java/org/apache/shardingsphere/underlying/executor/hook/fixture/SQLExecutionHookFixture.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-executor/src/test/java/org/apache/shardingsphere/underlying/executor/hook/SPISQLExecutionHookTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-executor/src/test/java/org/apache/shardingsphere/underlying/executor/log/SQLLoggerTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-executor/src/test/resources/META-INF/services/org.apache.shardingsphere.underlying.executor.hook.SQLExecutionHook
+ 
+*****************************************************

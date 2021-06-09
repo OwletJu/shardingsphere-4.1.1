@@ -1,0 +1,171 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-16T14:04:23+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 145
+
+Apache Licensed: 145
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/pom.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/api/EncryptDataSourceFactory.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/api/MasterSlaveDataSourceFactory.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/api/ShadowDataSourceFactory.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/api/ShardingDataSourceFactory.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/api/yaml/YamlEncryptDataSourceFactory.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/api/yaml/YamlMasterSlaveDataSourceFactory.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/api/yaml/YamlShadowDataSourceFactory.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/api/yaml/YamlShardingDataSourceFactory.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/executor/AbstractStatementExecutor.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/executor/batch/BatchPreparedStatementExecutor.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/executor/batch/BatchRouteUnit.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/executor/PreparedStatementExecutor.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/executor/SQLExecuteCallbackFactory.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/executor/StatementExecutor.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/adapter/AbstractConnectionAdapter.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/adapter/AbstractDataSourceAdapter.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/adapter/AbstractMasterSlavePreparedStatementAdapter.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/adapter/AbstractResultSetAdapter.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/adapter/AbstractShardingPreparedStatementAdapter.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/adapter/AbstractStatementAdapter.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/adapter/executor/ForceExecuteCallback.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/adapter/executor/ForceExecuteTemplate.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/adapter/invocation/JdbcMethodInvocation.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/adapter/invocation/SetParameterMethodInvocation.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/adapter/WrapperAdapter.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/connection/EncryptConnection.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/connection/MasterSlaveConnection.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/connection/ShadowConnection.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/connection/ShardingConnection.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/constant/SQLExceptionConstant.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/context/AbstractRuntimeContext.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/context/EncryptRuntimeContext.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/context/MasterSlaveRuntimeContext.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/context/MultipleDataSourcesRuntimeContext.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/context/RuntimeContext.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/context/ShadowRuntimeContext.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/context/ShardingRuntimeContext.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/context/SingleDataSourceRuntimeContext.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/datasource/EncryptDataSource.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/datasource/MasterSlaveDataSource.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/datasource/metadata/AdaptedDatabaseMetaData.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/datasource/metadata/CachedDatabaseMetaData.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/datasource/metadata/MasterSlaveDatabaseMetaData.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/datasource/metadata/MultipleDatabaseMetaData.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/datasource/metadata/ShardingDatabaseMetaData.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/datasource/ShadowDataSource.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/datasource/ShardingDataSource.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/resultset/DatabaseMetaDataResultSet.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/resultset/EncryptResultSet.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/resultset/EncryptResultSetMetaData.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/resultset/GeneratedKeysResultSet.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/resultset/GeneratedKeysResultSetMetaData.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/resultset/ResultSetUtil.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/resultset/ShardingResultSet.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/resultset/ShardingResultSetMetaData.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/EncryptPreparedStatement.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/EncryptStatement.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/MasterSlavePreparedStatement.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/MasterSlaveStatement.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/metadata/ShardingParameterMetaData.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/ShadowPreparedStatement.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/ShadowStatement.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/ShardingPreparedStatement.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/ShardingStatement.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/unsupported/AbstractUnsupportedDatabaseMetaDataResultSet.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/unsupported/AbstractUnsupportedGeneratedKeysResultSet.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/unsupported/AbstractUnsupportedOperationConnection.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/unsupported/AbstractUnsupportedOperationDataSource.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/unsupported/AbstractUnsupportedOperationParameterMetaData.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/unsupported/AbstractUnsupportedOperationPreparedStatement.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/unsupported/AbstractUnsupportedOperationResultSet.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/unsupported/AbstractUnsupportedOperationStatement.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/main/java/org/apache/shardingsphere/shardingjdbc/jdbc/unsupported/AbstractUnsupportedUpdateOperationResultSet.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/api/MasterSlaveDataSourceFactoryTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/api/ShardingDataSourceFactoryTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/common/base/AbstractEncryptJDBCDatabaseAndTableTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/common/base/AbstractMasterSlaveJDBCDatabaseAndTableTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/common/base/AbstractShadowJDBCDatabaseAndTableTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/common/base/AbstractShardingJDBCDatabaseAndTableTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/common/base/AbstractSQLTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/common/env/DatabaseEnvironment.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/executor/AbstractBaseExecutorTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/executor/batch/BatchPreparedStatementExecutorTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/executor/batch/BatchRouteUnitTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/executor/PreparedStatementExecutorTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/executor/SQLExecuteCallbackFactoryTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/executor/StatementExecutorTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/fixture/IncrementShardingKeyGenerator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/fixture/PreciseOrderShardingAlgorithm.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/fixture/RangeOrderShardingAlgorithm.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/fixture/TestDataSource.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/fixture/TestEncryptor.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/fixture/TestQueryAssistedEncryptor.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/adapter/ConnectionAdapterTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/adapter/DataSourceAdapterTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/adapter/invocation/JdbcMethodInvocationTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/adapter/invocation/SetParameterMethodInvocationTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/adapter/PreparedStatementAdapterTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/adapter/ResultSetAdapterTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/adapter/ResultSetGetterAdapterTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/adapter/StatementAdapterTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/connection/ShardingConnectionTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/datasource/MasterSlaveDataSourceTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/datasource/metadata/MasterSlaveDatabaseMetaDataTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/datasource/metadata/ShardingDatabaseMetaDataTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/datasource/ShardingDataSourceTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/fixture/AbstractShardingTransactionManagerFixture.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/fixture/BASEShardingTransactionManagerFixture.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/fixture/XAShardingTransactionManagerFixture.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/resultset/DatabaseMetaDataResultSetTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/resultset/EncryptResultSetTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/resultset/GeneratedKeysResultSetMetaDataTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/resultset/GeneratedKeysResultSetTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/resultset/ResultSetUtilTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/resultset/ShardingResultSetTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/EncryptPreparedStatementTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/EncryptStatementTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/MasterSlavePreparedStatementTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/MasterSlaveStatementTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/ShadowPreparedStatementTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/ShadowStatementTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/ShardingPreparedStatementTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/core/statement/ShardingStatementTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/unsupported/UnSupportedDatabaseMetaDataResultSetTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/unsupported/UnsupportedGeneratedKeysResultSetTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/unsupported/UnsupportedOperationConnectionTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/unsupported/UnsupportedOperationDataSourceTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/unsupported/UnsupportedOperationParameterMetaTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/unsupported/UnsupportedOperationPreparedStatementTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/unsupported/UnsupportedOperationResultSetTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/unsupported/UnsupportedOperationStatementTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/unsupported/UnsupportedUpdateOperationResultSetTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/java/org/apache/shardingsphere/shardingjdbc/jdbc/util/JDBCTestSQL.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/resources/config-master-slave.yaml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/resources/config-sharding.yaml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/resources/encrypt-config.yaml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/resources/encrypt_data.sql
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/resources/jdbc_data.sql
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/resources/jdbc_init.sql
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/resources/logback-test.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/resources/META-INF/services/org.apache.shardingsphere.encrypt.strategy.spi.Encryptor
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/resources/META-INF/services/org.apache.shardingsphere.spi.keygen.ShardingKeyGenerator
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/resources/META-INF/services/org.apache.shardingsphere.transaction.spi.ShardingTransactionManager
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-jdbc/sharding-jdbc-core/src/test/resources/mockito-extensions/org.mockito.plugins.MockMaker
+ 
+*****************************************************

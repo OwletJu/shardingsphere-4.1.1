@@ -1,0 +1,51 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-16T14:04:26+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 25
+
+Apache Licensed: 25
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-common/pom.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-common/src/main/java/org/apache/shardingsphere/orchestration/core/common/CenterType.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-common/src/main/java/org/apache/shardingsphere/orchestration/core/common/event/AuthenticationChangedEvent.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-common/src/main/java/org/apache/shardingsphere/orchestration/core/common/event/DataSourceChangedEvent.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-common/src/main/java/org/apache/shardingsphere/orchestration/core/common/event/EncryptRuleChangedEvent.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-common/src/main/java/org/apache/shardingsphere/orchestration/core/common/event/IgnoredShardingOrchestrationEvent.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-common/src/main/java/org/apache/shardingsphere/orchestration/core/common/event/MasterSlaveRuleChangedEvent.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-common/src/main/java/org/apache/shardingsphere/orchestration/core/common/event/PropertiesChangedEvent.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-common/src/main/java/org/apache/shardingsphere/orchestration/core/common/event/SchemaAddedEvent.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-common/src/main/java/org/apache/shardingsphere/orchestration/core/common/event/SchemaDeletedEvent.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-common/src/main/java/org/apache/shardingsphere/orchestration/core/common/event/ShadowRuleChangedEvent.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-common/src/main/java/org/apache/shardingsphere/orchestration/core/common/event/ShardingOrchestrationEvent.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-common/src/main/java/org/apache/shardingsphere/orchestration/core/common/event/ShardingRuleChangedEvent.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-common/src/main/java/org/apache/shardingsphere/orchestration/core/common/eventbus/ShardingOrchestrationEventBus.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-common/src/main/java/org/apache/shardingsphere/orchestration/core/common/listener/PostShardingConfigCenterEventListener.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-common/src/main/java/org/apache/shardingsphere/orchestration/core/common/listener/PostShardingRegistryCenterEventListener.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-common/src/main/java/org/apache/shardingsphere/orchestration/core/common/listener/ShardingOrchestrationListener.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-common/src/main/java/org/apache/shardingsphere/orchestration/core/common/rule/OrchestrationMasterSlaveRule.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-common/src/main/java/org/apache/shardingsphere/orchestration/core/common/rule/OrchestrationShardingRule.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-common/src/test/java/org/apache/shardingsphere/orchestration/core/common/eventbus/ShardingOrchestrationEventBusTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-common/src/test/java/org/apache/shardingsphere/orchestration/core/common/listener/PostShardingConfigCenterRepositoryEventListenerTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-common/src/test/java/org/apache/shardingsphere/orchestration/core/common/listener/PostShardingRegistryCenterRepositoryEventListenerTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-common/src/test/java/org/apache/shardingsphere/orchestration/core/common/rule/OrchestrationMasterSlaveRuleTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-common/src/test/java/org/apache/shardingsphere/orchestration/core/common/rule/OrchestrationShardingRuleTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-common/src/test/resources/logback-test.xml
+ 
+*****************************************************

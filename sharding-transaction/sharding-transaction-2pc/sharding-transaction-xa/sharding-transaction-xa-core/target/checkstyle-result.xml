@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\main\java\org\apache\shardingsphere\transaction\xa\jta\connection\dialect\H2XAConnectionWrapper.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\main\java\org\apache\shardingsphere\transaction\xa\jta\connection\dialect\MariaDBXAConnectionWrapper.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\main\java\org\apache\shardingsphere\transaction\xa\jta\connection\dialect\MySQLXAConnectionWrapper.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\main\java\org\apache\shardingsphere\transaction\xa\jta\connection\dialect\PostgreSQLXAConnectionWrapper.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\main\java\org\apache\shardingsphere\transaction\xa\jta\connection\XAConnectionFactory.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\main\java\org\apache\shardingsphere\transaction\xa\jta\connection\XAConnectionWrapper.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\main\java\org\apache\shardingsphere\transaction\xa\jta\datasource\properties\dialect\H2XADataSourceDefinition.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\main\java\org\apache\shardingsphere\transaction\xa\jta\datasource\properties\dialect\MariaDBXADataSourceDefinition.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\main\java\org\apache\shardingsphere\transaction\xa\jta\datasource\properties\dialect\MySQLXADataSourceDefinition.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\main\java\org\apache\shardingsphere\transaction\xa\jta\datasource\properties\dialect\OracleXADataSourceDefinition.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\main\java\org\apache\shardingsphere\transaction\xa\jta\datasource\properties\dialect\PostgreSQLXADataSourceDefinition.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\main\java\org\apache\shardingsphere\transaction\xa\jta\datasource\properties\dialect\SQLServerXADataSourceDefinition.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\main\java\org\apache\shardingsphere\transaction\xa\jta\datasource\properties\XADataSourceDefinition.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\main\java\org\apache\shardingsphere\transaction\xa\jta\datasource\properties\XADataSourceDefinitionFactory.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\main\java\org\apache\shardingsphere\transaction\xa\jta\datasource\swapper\DataSourcePropertyProvider.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\main\java\org\apache\shardingsphere\transaction\xa\jta\datasource\swapper\DataSourcePropertyProviderLoader.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\main\java\org\apache\shardingsphere\transaction\xa\jta\datasource\swapper\DataSourceSwapper.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\main\java\org\apache\shardingsphere\transaction\xa\jta\datasource\swapper\impl\DefaultDataSourcePropertyProvider.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\main\java\org\apache\shardingsphere\transaction\xa\jta\datasource\swapper\impl\HikariCPPropertyProvider.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\main\java\org\apache\shardingsphere\transaction\xa\jta\datasource\XADataSourceFactory.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\main\java\org\apache\shardingsphere\transaction\xa\jta\datasource\XATransactionDataSource.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\main\java\org\apache\shardingsphere\transaction\xa\manager\XATransactionManagerLoader.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\main\java\org\apache\shardingsphere\transaction\xa\XAShardingTransactionManager.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\test\java\org\apache\shardingsphere\transaction\xa\fixture\DataSourceUtils.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\test\java\org\apache\shardingsphere\transaction\xa\fixture\FixtureXATransactionManager.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\test\java\org\apache\shardingsphere\transaction\xa\fixture\ReflectiveUtil.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\test\java\org\apache\shardingsphere\transaction\xa\jta\connection\dialect\MariaDBXAConnectionWrapperTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\test\java\org\apache\shardingsphere\transaction\xa\jta\connection\dialect\MySQLXAConnectionWrapperTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\test\java\org\apache\shardingsphere\transaction\xa\jta\connection\dialect\PostgreSQLXAConnectionWrapperTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\test\java\org\apache\shardingsphere\transaction\xa\jta\connection\XAConnectionFactoryTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\test\java\org\apache\shardingsphere\transaction\xa\jta\datasource\properties\dialect\H2XADataSourceDefinitionTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\test\java\org\apache\shardingsphere\transaction\xa\jta\datasource\properties\dialect\MariaDBXADataSourceDefinitionTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\test\java\org\apache\shardingsphere\transaction\xa\jta\datasource\properties\dialect\MySQLXADataSourceDefinitionTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\test\java\org\apache\shardingsphere\transaction\xa\jta\datasource\properties\dialect\OracleXADataSourceDefinitionTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\test\java\org\apache\shardingsphere\transaction\xa\jta\datasource\properties\dialect\PostgreSQLXADataSourceDefinitionTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\test\java\org\apache\shardingsphere\transaction\xa\jta\datasource\properties\dialect\SQLServerXADataSourceDefinitionTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\test\java\org\apache\shardingsphere\transaction\xa\jta\datasource\properties\XADataSourceDefinitionFactoryTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\test\java\org\apache\shardingsphere\transaction\xa\jta\datasource\swapper\DataSourcePropertyProviderLoaderTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\test\java\org\apache\shardingsphere\transaction\xa\jta\datasource\swapper\DataSourceSwapperTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\test\java\org\apache\shardingsphere\transaction\xa\jta\datasource\swapper\impl\DefaultDataSourcePropertyProviderTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\test\java\org\apache\shardingsphere\transaction\xa\jta\datasource\swapper\impl\HikariCPPropertyProviderTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\test\java\org\apache\shardingsphere\transaction\xa\jta\datasource\XADataSourceFactoryTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\test\java\org\apache\shardingsphere\transaction\xa\jta\datasource\XATransactionDataSourceTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\test\java\org\apache\shardingsphere\transaction\xa\manager\XATransactionManagerLoaderTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-core\src\test\java\org\apache\shardingsphere\transaction\xa\XAShardingTransactionManagerTest.java">
+</file>
+</checkstyle>

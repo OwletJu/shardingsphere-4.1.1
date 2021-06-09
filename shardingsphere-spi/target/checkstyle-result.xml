@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-spi\src\main\java\org\apache\shardingsphere\spi\database\metadata\DataSourceMetaData.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-spi\src\main\java\org\apache\shardingsphere\spi\database\metadata\MemorizedDataSourceMetaData.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-spi\src\main\java\org\apache\shardingsphere\spi\database\type\BranchDatabaseType.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-spi\src\main\java\org\apache\shardingsphere\spi\database\type\DatabaseType.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-spi\src\main\java\org\apache\shardingsphere\spi\database\type\DatabaseTypeAwareSPI.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-spi\src\main\java\org\apache\shardingsphere\spi\NewInstanceServiceLoader.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-spi\src\main\java\org\apache\shardingsphere\spi\order\OrderAware.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-spi\src\main\java\org\apache\shardingsphere\spi\order\OrderedRegistry.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-spi\src\main\java\org\apache\shardingsphere\spi\TypeBasedSPI.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-spi\src\main\java\org\apache\shardingsphere\spi\TypeBasedSPIServiceLoader.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-spi\src\test\java\org\apache\shardingsphere\spi\fixture\TypeBasedSPIFixture.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-spi\src\test\java\org\apache\shardingsphere\spi\fixture\TypeBasedSPIFixtureImpl.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-spi\src\test\java\org\apache\shardingsphere\spi\fixture\TypeBasedSPIFixtureServiceLoader.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-spi\src\test\java\org\apache\shardingsphere\spi\NewInstanceServiceLoaderTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-spi\src\test\java\org\apache\shardingsphere\spi\TypeBasedSPIServiceLoaderTest.java">
+</file>
+</checkstyle>

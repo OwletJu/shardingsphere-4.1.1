@@ -1,0 +1,36 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-16T14:05:40+08:00
+
+Notes: 2
+Binaries: 0
+Archives: 0
+Standards: 8
+
+Apache Licensed: 8
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-distribution/sharding-scaling-distribution/Dockerfile
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-distribution/sharding-scaling-distribution/pom.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-distribution/sharding-scaling-distribution/src/main/assembly/sharding-scaling-binary-distribution.xml
+  N     E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-distribution/sharding-scaling-distribution/src/main/release-docs/LICENSE
+  N     E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-distribution/sharding-scaling-distribution/src/main/release-docs/NOTICE
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-distribution/sharding-scaling-distribution/src/main/resources/bin/start.bat
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-distribution/sharding-scaling-distribution/src/main/resources/bin/start.sh
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-distribution/sharding-scaling-distribution/src/main/resources/bin/stop.sh
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-distribution/sharding-scaling-distribution/src/main/resources/conf/server.yaml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-distribution/sharding-scaling-distribution/src/main/resources/logback.xml
+ 
+*****************************************************

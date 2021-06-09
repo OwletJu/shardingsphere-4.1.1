@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-narayana\sharding-transaction-xa-narayana-manager\src\main\java\org\apache\shardingsphere\transaction\xa\narayana\manager\DataSourceXAResourceRecoveryHelper.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-2pc\sharding-transaction-xa\sharding-transaction-xa-narayana\sharding-transaction-xa-narayana-manager\src\main\java\org\apache\shardingsphere\transaction\xa\narayana\manager\NarayanaXATransactionManager.java">
+</file>
+</checkstyle>

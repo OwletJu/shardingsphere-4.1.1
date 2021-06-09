@@ -1,0 +1,45 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-16T14:04:28+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 19
+
+Apache Licensed: 19
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-configcenter/pom.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-configcenter/src/main/java/org/apache/shardingsphere/orchestration/core/configcenter/ConfigCenter.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-configcenter/src/main/java/org/apache/shardingsphere/orchestration/core/configcenter/ConfigCenterNode.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-configcenter/src/main/java/org/apache/shardingsphere/orchestration/core/configcenter/ConfigCenterRepositoryServiceLoader.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-configcenter/src/main/java/org/apache/shardingsphere/orchestration/core/configcenter/listener/AuthenticationChangedListener.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-configcenter/src/main/java/org/apache/shardingsphere/orchestration/core/configcenter/listener/ConfigurationChangedListenerManager.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-configcenter/src/main/java/org/apache/shardingsphere/orchestration/core/configcenter/listener/PropertiesChangedListener.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-configcenter/src/main/java/org/apache/shardingsphere/orchestration/core/configcenter/listener/SchemaChangedListener.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-configcenter/src/test/java/org/apache/shardingsphere/orchestration/core/configcenter/ConfigCenterNodeTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-configcenter/src/test/java/org/apache/shardingsphere/orchestration/core/configcenter/ConfigCenterRepositoryServiceLoaderTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-configcenter/src/test/java/org/apache/shardingsphere/orchestration/core/configcenter/ConfigCenterTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-configcenter/src/test/java/org/apache/shardingsphere/orchestration/core/configcenter/fixture/FirstTestConfigCenterRepository.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-configcenter/src/test/java/org/apache/shardingsphere/orchestration/core/configcenter/listener/AuthenticationChangedListenerTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-configcenter/src/test/java/org/apache/shardingsphere/orchestration/core/configcenter/listener/ConfigurationChangedListenerManagerTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-configcenter/src/test/java/org/apache/shardingsphere/orchestration/core/configcenter/listener/PropertiesChangedListenerTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-configcenter/src/test/java/org/apache/shardingsphere/orchestration/core/configcenter/listener/SchemaChangedListenerTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-configcenter/src/test/resources/logback-test.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-configcenter/src/test/resources/META-INF/services/org.apache.shardingsphere.orchestration.center.ConfigCenterRepository
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-configcenter/src/test/resources/mockito-extensions/org.mockito.plugins.MockMaker
+ 
+*****************************************************

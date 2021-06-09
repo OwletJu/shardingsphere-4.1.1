@@ -1,0 +1,75 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-16T14:03:24+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 49
+
+Apache Licensed: 49
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/pom.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/java/org/apache/shardingsphere/test/sql/loader/SQLCasesLoader.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/java/org/apache/shardingsphere/test/sql/loader/SQLCasesRegistry.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/java/org/apache/shardingsphere/test/sql/loader/UnsupportedSQLCasesRegistry.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/java/org/apache/shardingsphere/test/sql/SQLCase.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/java/org/apache/shardingsphere/test/sql/SQLCases.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/java/org/apache/shardingsphere/test/sql/SQLCaseType.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/dal/reset.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/dal/set.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/dal/show.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/dcl/alter-login.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/dcl/alter-role.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/dcl/alter-user.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/dcl/create-login.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/dcl/create-role.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/dcl/create-user.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/dcl/deny-user.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/dcl/drop-login.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/dcl/drop-role.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/dcl/drop-user.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/dcl/grant-user.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/dcl/rename-user.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/dcl/revoke-user.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/dcl/set-default-role.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/dcl/set-password.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/dcl/set-role.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/ddl/alter.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/ddl/create.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/ddl/drop.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/ddl/truncate.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/dml/delete.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/dml/insert.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/dml/select-aggregate.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/dml/select-comment.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/dml/select-distinct.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/dml/select-escape.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/dml/select-expression.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/dml/select-group-by.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/dml/select-or.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/dml/select-order-by.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/dml/select-pagination-group-by-order-by.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/dml/select-pagination.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/dml/select-relation.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/dml/select-sub-query.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/dml/select.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/dml/update.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/supported/tcl/tcl.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/main/resources/sql/unsupported/unsupported.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-sql-test/src/test/java/org/apache/shardingsphere/test/sql/SQLCasesLoaderTest.java
+ 
+*****************************************************

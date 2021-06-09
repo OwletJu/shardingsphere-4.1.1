@@ -1,0 +1,54 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-16T14:04:29+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 28
+
+Apache Licensed: 28
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-registrycenter/pom.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-registrycenter/src/main/java/org/apache/shardingsphere/orchestration/core/registrycenter/event/CircuitStateChangedEvent.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-registrycenter/src/main/java/org/apache/shardingsphere/orchestration/core/registrycenter/event/DisabledStateChangedEvent.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-registrycenter/src/main/java/org/apache/shardingsphere/orchestration/core/registrycenter/instance/OrchestrationInstance.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-registrycenter/src/main/java/org/apache/shardingsphere/orchestration/core/registrycenter/listener/DataSourceStateChangedListener.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-registrycenter/src/main/java/org/apache/shardingsphere/orchestration/core/registrycenter/listener/InstanceStateChangedListener.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-registrycenter/src/main/java/org/apache/shardingsphere/orchestration/core/registrycenter/listener/StateChangedListenerManager.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-registrycenter/src/main/java/org/apache/shardingsphere/orchestration/core/registrycenter/RegistryCenter.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-registrycenter/src/main/java/org/apache/shardingsphere/orchestration/core/registrycenter/RegistryCenterNode.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-registrycenter/src/main/java/org/apache/shardingsphere/orchestration/core/registrycenter/RegistryCenterNodeStatus.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-registrycenter/src/main/java/org/apache/shardingsphere/orchestration/core/registrycenter/RegistryCenterRepositoryServiceLoader.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-registrycenter/src/main/java/org/apache/shardingsphere/orchestration/core/registrycenter/schema/OrchestrationShardingSchema.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-registrycenter/src/main/java/org/apache/shardingsphere/orchestration/core/registrycenter/schema/OrchestrationShardingSchemaGroup.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-registrycenter/src/main/java/org/apache/shardingsphere/orchestration/core/registrycenter/util/IpUtils.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-registrycenter/src/test/java/org/apache/shardingsphere/orchestration/core/registrycenter/fixture/FirstTestRegistryCenterRepository.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-registrycenter/src/test/java/org/apache/shardingsphere/orchestration/core/registrycenter/fixture/SecondTestRegistryCenterRepository.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-registrycenter/src/test/java/org/apache/shardingsphere/orchestration/core/registrycenter/listener/DataSourceStateChangedListenerTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-registrycenter/src/test/java/org/apache/shardingsphere/orchestration/core/registrycenter/listener/InstanceStateChangedListenerTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-registrycenter/src/test/java/org/apache/shardingsphere/orchestration/core/registrycenter/listener/StateChangedListenerManagerTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-registrycenter/src/test/java/org/apache/shardingsphere/orchestration/core/registrycenter/RegistryCenterNodeTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-registrycenter/src/test/java/org/apache/shardingsphere/orchestration/core/registrycenter/RegistryCenterRepositoryServiceLoaderTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-registrycenter/src/test/java/org/apache/shardingsphere/orchestration/core/registrycenter/RegistryCenterTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-registrycenter/src/test/java/org/apache/shardingsphere/orchestration/core/registrycenter/schema/OrchestrationShardingSchemaGroupTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-registrycenter/src/test/java/org/apache/shardingsphere/orchestration/core/registrycenter/schema/OrchestrationShardingSchemaTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-registrycenter/src/test/java/org/apache/shardingsphere/orchestration/core/registrycenter/util/FieldUtil.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-registrycenter/src/test/resources/logback-test.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-registrycenter/src/test/resources/META-INF/services/org.apache.shardingsphere.orchestration.center.RegistryCenterRepository
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-core/sharding-orchestration-core-registrycenter/src/test/resources/mockito-extensions/org.mockito.plugins.MockMaker
+ 
+*****************************************************

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-underlying\shardingsphere-rewrite\shardingsphere-rewrite-test\src\main\java\org\apache\shardingsphere\underlying\rewrite\parameterized\engine\AbstractSQLRewriterParameterizedTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-underlying\shardingsphere-rewrite\shardingsphere-rewrite-test\src\main\java\org\apache\shardingsphere\underlying\rewrite\parameterized\engine\parameter\SQLRewriteEngineTestParameters.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-underlying\shardingsphere-rewrite\shardingsphere-rewrite-test\src\main\java\org\apache\shardingsphere\underlying\rewrite\parameterized\engine\parameter\SQLRewriteEngineTestParametersBuilder.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-underlying\shardingsphere-rewrite\shardingsphere-rewrite-test\src\main\java\org\apache\shardingsphere\underlying\rewrite\parameterized\entity\RewriteAssertionEntity.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-underlying\shardingsphere-rewrite\shardingsphere-rewrite-test\src\main\java\org\apache\shardingsphere\underlying\rewrite\parameterized\entity\RewriteAssertionsRootEntity.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-underlying\shardingsphere-rewrite\shardingsphere-rewrite-test\src\main\java\org\apache\shardingsphere\underlying\rewrite\parameterized\entity\RewriteInputEntity.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-underlying\shardingsphere-rewrite\shardingsphere-rewrite-test\src\main\java\org\apache\shardingsphere\underlying\rewrite\parameterized\entity\RewriteOutputEntity.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\shardingsphere-underlying\shardingsphere-rewrite\shardingsphere-rewrite-test\src\main\java\org\apache\shardingsphere\underlying\rewrite\parameterized\loader\RewriteAssertionsRootEntityLoader.java">
+</file>
+</checkstyle>

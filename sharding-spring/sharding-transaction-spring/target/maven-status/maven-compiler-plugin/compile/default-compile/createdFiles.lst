@@ -1,0 +1,3 @@
+org\apache\shardingsphere\transaction\spring\ShardingTransactionTypeAdvisor.class
+org\apache\shardingsphere\transaction\spring\ShardingTransactionTypeScanner.class
+org\apache\shardingsphere\transaction\spring\ShardingTransactionTypeInterceptor.class

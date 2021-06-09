@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-core\sharding-core-api\src\main\java\org\apache\shardingsphere\api\config\masterslave\LoadBalanceStrategyConfiguration.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-core\sharding-core-api\src\main\java\org\apache\shardingsphere\api\config\masterslave\MasterSlaveRuleConfiguration.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-core\sharding-core-api\src\main\java\org\apache\shardingsphere\api\config\shadow\ShadowRuleConfiguration.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-core\sharding-core-api\src\main\java\org\apache\shardingsphere\api\config\sharding\KeyGeneratorConfiguration.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-core\sharding-core-api\src\main\java\org\apache\shardingsphere\api\config\sharding\ShardingRuleConfiguration.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-core\sharding-core-api\src\main\java\org\apache\shardingsphere\api\config\sharding\strategy\ComplexShardingStrategyConfiguration.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-core\sharding-core-api\src\main\java\org\apache\shardingsphere\api\config\sharding\strategy\HintShardingStrategyConfiguration.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-core\sharding-core-api\src\main\java\org\apache\shardingsphere\api\config\sharding\strategy\InlineShardingStrategyConfiguration.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-core\sharding-core-api\src\main\java\org\apache\shardingsphere\api\config\sharding\strategy\NoneShardingStrategyConfiguration.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-core\sharding-core-api\src\main\java\org\apache\shardingsphere\api\config\sharding\strategy\ShardingStrategyConfiguration.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-core\sharding-core-api\src\main\java\org\apache\shardingsphere\api\config\sharding\strategy\StandardShardingStrategyConfiguration.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-core\sharding-core-api\src\main\java\org\apache\shardingsphere\api\config\sharding\TableRuleConfiguration.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-core\sharding-core-api\src\main\java\org\apache\shardingsphere\api\hint\HintManager.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-core\sharding-core-api\src\main\java\org\apache\shardingsphere\api\sharding\complex\ComplexKeysShardingAlgorithm.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-core\sharding-core-api\src\main\java\org\apache\shardingsphere\api\sharding\complex\ComplexKeysShardingValue.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-core\sharding-core-api\src\main\java\org\apache\shardingsphere\api\sharding\hint\HintShardingAlgorithm.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-core\sharding-core-api\src\main\java\org\apache\shardingsphere\api\sharding\hint\HintShardingValue.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-core\sharding-core-api\src\main\java\org\apache\shardingsphere\api\sharding\ShardingAlgorithm.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-core\sharding-core-api\src\main\java\org\apache\shardingsphere\api\sharding\ShardingValue.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-core\sharding-core-api\src\main\java\org\apache\shardingsphere\api\sharding\standard\PreciseShardingAlgorithm.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-core\sharding-core-api\src\main\java\org\apache\shardingsphere\api\sharding\standard\PreciseShardingValue.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-core\sharding-core-api\src\main\java\org\apache\shardingsphere\api\sharding\standard\RangeShardingAlgorithm.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-core\sharding-core-api\src\main\java\org\apache\shardingsphere\api\sharding\standard\RangeShardingValue.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-core\sharding-core-api\src\main\java\org\apache\shardingsphere\spi\keygen\ShardingKeyGenerator.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-core\sharding-core-api\src\main\java\org\apache\shardingsphere\spi\masterslave\MasterSlaveLoadBalanceAlgorithm.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-core\sharding-core-api\src\test\java\org\apache\shardingsphere\api\config\masterslave\MasterSlaveRuleConfigurationTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-core\sharding-core-api\src\test\java\org\apache\shardingsphere\api\config\sharding\KeyGeneratorConfigurationTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-core\sharding-core-api\src\test\java\org\apache\shardingsphere\api\config\sharding\strategy\ComplexShardingStrategyConfigurationTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-core\sharding-core-api\src\test\java\org\apache\shardingsphere\api\config\sharding\strategy\HintShardingStrategyConfigurationTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-core\sharding-core-api\src\test\java\org\apache\shardingsphere\api\config\sharding\strategy\InlineShardingStrategyConfigurationTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-core\sharding-core-api\src\test\java\org\apache\shardingsphere\api\config\sharding\strategy\StandardShardingStrategyConfigurationTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-core\sharding-core-api\src\test\java\org\apache\shardingsphere\api\config\sharding\TableRuleConfigurationTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-core\sharding-core-api\src\test\java\org\apache\shardingsphere\api\hint\HintManagerTest.java">
+</file>
+</checkstyle>

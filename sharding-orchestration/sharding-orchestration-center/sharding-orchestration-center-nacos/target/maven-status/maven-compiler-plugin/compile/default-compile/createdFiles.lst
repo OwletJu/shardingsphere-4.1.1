@@ -1,0 +1,4 @@
+org\apache\shardingsphere\orchestration\center\instance\NacosCenterRepository$1.class
+org\apache\shardingsphere\orchestration\center\instance\NacosProperties.class
+org\apache\shardingsphere\orchestration\center\instance\NacosPropertyKey.class
+org\apache\shardingsphere\orchestration\center\instance\NacosCenterRepository.class

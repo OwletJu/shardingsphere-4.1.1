@@ -1,0 +1,32 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-16T14:03:42+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 6
+
+Apache Licensed: 6
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-pluggable/pom.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-pluggable/src/main/java/org/apache/shardingsphere/underlying/pluggble/merge/MergeEngine.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-pluggable/src/main/java/org/apache/shardingsphere/underlying/pluggble/prepare/BasePrepareEngine.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-pluggable/src/main/java/org/apache/shardingsphere/underlying/pluggble/prepare/PreparedQueryPrepareEngine.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-pluggable/src/main/java/org/apache/shardingsphere/underlying/pluggble/prepare/SimpleQueryPrepareEngine.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/shardingsphere-underlying/shardingsphere-pluggable/src/test/resources/logback-test.xml
+ 
+*****************************************************

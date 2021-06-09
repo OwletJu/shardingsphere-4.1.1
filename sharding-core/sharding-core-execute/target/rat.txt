@@ -1,0 +1,41 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-16T14:04:05+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 15
+
+Apache Licensed: 15
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-execute/pom.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/sharding/execute/sql/execute/result/MemoryQueryResult.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/sharding/execute/sql/execute/result/StreamQueryResult.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/sharding/execute/sql/execute/SQLExecuteCallback.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/sharding/execute/sql/execute/SQLExecuteTemplate.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/sharding/execute/sql/execute/threadlocal/ExecutorExceptionHandler.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/sharding/execute/sql/prepare/SQLExecutePrepareCallback.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/sharding/execute/sql/prepare/SQLExecutePrepareTemplate.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-execute/src/main/java/org/apache/shardingsphere/sharding/execute/sql/StatementExecuteUnit.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-execute/src/test/java/org/apache/shardingsphere/sharding/execute/sql/execute/result/MemoryQueryResultTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-execute/src/test/java/org/apache/shardingsphere/sharding/execute/sql/execute/result/StreamQueryResultTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-execute/src/test/java/org/apache/shardingsphere/sharding/execute/sql/execute/SQLExecuteCallbackTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-execute/src/test/java/org/apache/shardingsphere/sharding/execute/sql/execute/threadlocal/ExecutorExceptionHandlerTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-execute/src/test/java/org/apache/shardingsphere/sharding/execute/sql/prepare/SQLExecutePrepareTemplateTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-core/sharding-core-execute/src/test/resources/logback-test.xml
+ 
+*****************************************************

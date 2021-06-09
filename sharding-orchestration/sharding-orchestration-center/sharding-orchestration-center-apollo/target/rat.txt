@@ -1,0 +1,38 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-16T14:05:24+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 12
+
+Apache Licensed: 12
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-center/sharding-orchestration-center-apollo/pom.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-center/sharding-orchestration-center-apollo/src/main/java/org/apache/shardingsphere/orchestration/center/instance/ApolloCenterRepository.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-center/sharding-orchestration-center-apollo/src/main/java/org/apache/shardingsphere/orchestration/center/instance/ApolloProperties.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-center/sharding-orchestration-center-apollo/src/main/java/org/apache/shardingsphere/orchestration/center/instance/ApolloPropertyKey.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-center/sharding-orchestration-center-apollo/src/main/java/org/apache/shardingsphere/orchestration/center/instance/wrapper/ApolloConfigWrapper.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-center/sharding-orchestration-center-apollo/src/main/java/org/apache/shardingsphere/orchestration/center/instance/wrapper/ApolloOpenApiWrapper.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-center/sharding-orchestration-center-apollo/src/main/resources/META-INF/services/org.apache.shardingsphere.orchestration.center.ConfigCenterRepository
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-center/sharding-orchestration-center-apollo/src/test/java/org/apache/shardingsphere/orchestration/center/instance/ApolloCenterRepositoryTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-center/sharding-orchestration-center-apollo/src/test/java/org/apache/shardingsphere/orchestration/center/instance/ApolloPropertiesTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-center/sharding-orchestration-center-apollo/src/test/java/org/apache/shardingsphere/orchestration/center/instance/wrapper/ApolloConfigWrapperTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-center/sharding-orchestration-center-apollo/src/test/resources/logback-test.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-center/sharding-orchestration-center-apollo/src/test/resources/mockdata-orchestration.properties
+ 
+*****************************************************

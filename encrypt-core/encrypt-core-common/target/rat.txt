@@ -1,0 +1,57 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-16T14:03:51+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 31
+
+Apache Licensed: 31
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-common/pom.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-common/src/main/java/org/apache/shardingsphere/encrypt/metadata/EncryptColumnMetaData.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-common/src/main/java/org/apache/shardingsphere/encrypt/metadata/EncryptTableMetaDataDecorator.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-common/src/main/java/org/apache/shardingsphere/encrypt/rule/aware/EncryptRuleAware.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-common/src/main/java/org/apache/shardingsphere/encrypt/rule/EncryptRule.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-common/src/main/java/org/apache/shardingsphere/encrypt/strategy/EncryptColumn.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-common/src/main/java/org/apache/shardingsphere/encrypt/strategy/EncryptTable.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-common/src/main/java/org/apache/shardingsphere/encrypt/strategy/impl/AESEncryptor.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-common/src/main/java/org/apache/shardingsphere/encrypt/strategy/impl/MD5Encryptor.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-common/src/main/java/org/apache/shardingsphere/encrypt/strategy/spi/Encryptor.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-common/src/main/java/org/apache/shardingsphere/encrypt/strategy/spi/loader/EncryptorServiceLoader.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-common/src/main/java/org/apache/shardingsphere/encrypt/strategy/spi/QueryAssistedEncryptor.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-common/src/main/java/org/apache/shardingsphere/encrypt/yaml/config/YamlEncryptColumnRuleConfiguration.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-common/src/main/java/org/apache/shardingsphere/encrypt/yaml/config/YamlEncryptorRuleConfiguration.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-common/src/main/java/org/apache/shardingsphere/encrypt/yaml/config/YamlEncryptRuleConfiguration.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-common/src/main/java/org/apache/shardingsphere/encrypt/yaml/config/YamlEncryptTableRuleConfiguration.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-common/src/main/java/org/apache/shardingsphere/encrypt/yaml/config/YamlRootEncryptRuleConfiguration.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-common/src/main/java/org/apache/shardingsphere/encrypt/yaml/swapper/EncryptColumnRuleConfigurationYamlSwapper.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-common/src/main/java/org/apache/shardingsphere/encrypt/yaml/swapper/EncryptorRuleConfigurationYamlSwapper.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-common/src/main/java/org/apache/shardingsphere/encrypt/yaml/swapper/EncryptRuleConfigurationYamlSwapper.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-common/src/main/java/org/apache/shardingsphere/encrypt/yaml/swapper/EncryptTableRuleConfigurationYamlSwapper.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-common/src/main/resources/META-INF/services/org.apache.shardingsphere.encrypt.strategy.spi.Encryptor
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-common/src/test/java/org/apache/shardingsphere/encrypt/rule/EncryptRuleTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-common/src/test/java/org/apache/shardingsphere/encrypt/strategy/fixture/TestEncryptor.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-common/src/test/java/org/apache/shardingsphere/encrypt/strategy/fixture/TestQueryAssistedEncryptor.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-common/src/test/java/org/apache/shardingsphere/encrypt/strategy/impl/AESEncryptorTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-common/src/test/java/org/apache/shardingsphere/encrypt/strategy/impl/EncryptColumnTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-common/src/test/java/org/apache/shardingsphere/encrypt/strategy/impl/EncryptTableTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-common/src/test/java/org/apache/shardingsphere/encrypt/strategy/impl/MD5EncryptorTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-common/src/test/java/org/apache/shardingsphere/encrypt/strategy/spi/loader/EncryptorServiceLoaderTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/encrypt-core/encrypt-core-common/src/test/resources/META-INF/services/org.apache.shardingsphere.encrypt.strategy.spi.Encryptor
+ 
+*****************************************************

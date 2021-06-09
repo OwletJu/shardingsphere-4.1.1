@@ -1,0 +1,35 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-12-16T14:04:31+08:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 9
+
+Apache Licensed: 9
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-center/sharding-orchestration-center-configuration/pom.xml
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-center/sharding-orchestration-center-configuration/src/main/java/org/apache/shardingsphere/orchestration/center/yaml/config/YamlCenterRepositoryConfiguration.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-center/sharding-orchestration-center-configuration/src/main/java/org/apache/shardingsphere/orchestration/center/yaml/config/YamlOrchestrationConfiguration.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-center/sharding-orchestration-center-configuration/src/main/java/org/apache/shardingsphere/orchestration/center/yaml/swapper/CenterRepositoryConfigurationYamlSwapper.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-center/sharding-orchestration-center-configuration/src/main/java/org/apache/shardingsphere/orchestration/center/yaml/swapper/OrchestrationConfigurationYamlSwapper.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-center/sharding-orchestration-center-configuration/src/test/java/org/apache/shardingsphere/orchestration/center/yaml/config/YamlCenterRepositoryConfigurationTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-center/sharding-orchestration-center-configuration/src/test/java/org/apache/shardingsphere/orchestration/center/yaml/config/YamlOrchestrationConfigurationTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-center/sharding-orchestration-center-configuration/src/test/java/org/apache/shardingsphere/orchestration/center/yaml/swapper/CenterRepositoryConfigurationYamlSwapperTest.java
+  AL    E:/a备课资料/shardingsphere/VIP课程大纲/配套资料/apache-shardingsphere-4.1.1-src-release/sharding-orchestration/sharding-orchestration-center/sharding-orchestration-center-configuration/src/test/java/org/apache/shardingsphere/orchestration/center/yaml/swapper/OrchestrationConfigurationYamlSwapperTest.java
+ 
+*****************************************************

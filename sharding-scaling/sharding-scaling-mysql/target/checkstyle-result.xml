@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-mysql\src\main\java\org\apache\shardingsphere\shardingscaling\mysql\binlog\BinlogContext.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-mysql\src\main\java\org\apache\shardingsphere\shardingscaling\mysql\binlog\event\AbstractBinlogEvent.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-mysql\src\main\java\org\apache\shardingsphere\shardingscaling\mysql\binlog\event\AbstractRowsEvent.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-mysql\src\main\java\org\apache\shardingsphere\shardingscaling\mysql\binlog\event\DeleteRowsEvent.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-mysql\src\main\java\org\apache\shardingsphere\shardingscaling\mysql\binlog\event\PlaceholderEvent.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-mysql\src\main\java\org\apache\shardingsphere\shardingscaling\mysql\binlog\event\UpdateRowsEvent.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-mysql\src\main\java\org\apache\shardingsphere\shardingscaling\mysql\binlog\event\WriteRowsEvent.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-mysql\src\main\java\org\apache\shardingsphere\shardingscaling\mysql\BinlogPosition.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-mysql\src\main\java\org\apache\shardingsphere\shardingscaling\mysql\client\InternalResultSet.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-mysql\src\main\java\org\apache\shardingsphere\shardingscaling\mysql\client\MySQLClient.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-mysql\src\main\java\org\apache\shardingsphere\shardingscaling\mysql\client\MySQLPasswordEncryptor.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-mysql\src\main\java\org\apache\shardingsphere\shardingscaling\mysql\client\netty\MySQLBinlogEventPacketDecoder.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-mysql\src\main\java\org\apache\shardingsphere\shardingscaling\mysql\client\netty\MySQLCommandPacketDecoder.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-mysql\src\main\java\org\apache\shardingsphere\shardingscaling\mysql\client\netty\MySQLNegotiateHandler.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-mysql\src\main\java\org\apache\shardingsphere\shardingscaling\mysql\client\ServerInfo.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-mysql\src\main\java\org\apache\shardingsphere\shardingscaling\mysql\client\ServerVersion.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-mysql\src\main\java\org\apache\shardingsphere\shardingscaling\mysql\MySQLBinlogReader.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-mysql\src\main\java\org\apache\shardingsphere\shardingscaling\mysql\MySQLDataSourceChecker.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-mysql\src\main\java\org\apache\shardingsphere\shardingscaling\mysql\MySQLJdbcReader.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-mysql\src\main\java\org\apache\shardingsphere\shardingscaling\mysql\MySQLLogPositionManager.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-mysql\src\main\java\org\apache\shardingsphere\shardingscaling\mysql\MySQLScalingEntry.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-mysql\src\main\java\org\apache\shardingsphere\shardingscaling\mysql\MySQLWriter.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-mysql\src\test\java\org\apache\shardingsphere\shardingscaling\mysql\binlog\BinlogContextTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-mysql\src\test\java\org\apache\shardingsphere\shardingscaling\mysql\BinlogPositionTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-mysql\src\test\java\org\apache\shardingsphere\shardingscaling\mysql\client\MySQLClientTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-mysql\src\test\java\org\apache\shardingsphere\shardingscaling\mysql\client\MySQLPasswordEncryptorTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-mysql\src\test\java\org\apache\shardingsphere\shardingscaling\mysql\client\netty\MySQLBinlogEventPacketDecoderTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-mysql\src\test\java\org\apache\shardingsphere\shardingscaling\mysql\client\netty\MySQLCommandPacketDecoderTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-mysql\src\test\java\org\apache\shardingsphere\shardingscaling\mysql\client\netty\MySQLNegotiateHandlerTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-mysql\src\test\java\org\apache\shardingsphere\shardingscaling\mysql\client\ServerVersionTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-mysql\src\test\java\org\apache\shardingsphere\shardingscaling\mysql\MySQLLogPositionManagerTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-scaling\sharding-scaling-mysql\src\test\java\org\apache\shardingsphere\shardingscaling\utils\ReflectionUtil.java">
+</file>
+</checkstyle>

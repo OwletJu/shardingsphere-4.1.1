@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-core\src\main\java\org\apache\shardingsphere\transaction\annotation\ShardingTransactionType.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-core\src\main\java\org\apache\shardingsphere\transaction\core\ResourceDataSource.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-core\src\main\java\org\apache\shardingsphere\transaction\core\ResourceIDGenerator.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-core\src\main\java\org\apache\shardingsphere\transaction\core\TransactionOperationType.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-core\src\main\java\org\apache\shardingsphere\transaction\core\TransactionType.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-core\src\main\java\org\apache\shardingsphere\transaction\core\TransactionTypeHolder.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-core\src\main\java\org\apache\shardingsphere\transaction\ShardingTransactionManagerEngine.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-core\src\main\java\org\apache\shardingsphere\transaction\spi\ShardingTransactionManager.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-core\src\test\java\org\apache\shardingsphere\transaction\core\fixture\OtherShardingTransactionManagerFixture.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-core\src\test\java\org\apache\shardingsphere\transaction\core\fixture\ShardingTransactionManagerFixture.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-core\src\test\java\org\apache\shardingsphere\transaction\core\ResourceIDGeneratorTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-core\src\test\java\org\apache\shardingsphere\transaction\core\TransactionTypeHolderTest.java">
+</file>
+<file name="E:\a备课资料\shardingsphere\VIP课程大纲\配套资料\apache-shardingsphere-4.1.1-src-release\sharding-transaction\sharding-transaction-core\src\test\java\org\apache\shardingsphere\transaction\ShardingTransactionManagerEngineTest.java">
+</file>
+</checkstyle>
